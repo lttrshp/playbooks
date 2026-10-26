@@ -8,7 +8,7 @@ tableOfContents: false
 
 First things first: you don't have to do everything I describe right away. I'd rather you start typing a good newsletter straight away and don't hit any hurdles. But I do want you to know what's possible. Because a few small changes (a good description of your Lettership, a welcome email, a logo) make readers stay and new readers sign up.
 
-After reading these guides you'll know how to send an article and how to make your Lettership your own. The rest follows. And, I can't say this often enough, don't hesitate to email or message Aydın if something is unclear or doesn't work. I also always enjoy a chat about writing and growing your Lettership.
+After reading these guides you'll know how to send an article and how to make your Lettership your own. The rest follows. And, I can't say this often enough, don't hesitate to email or message Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) if something is unclear or doesn't work. I also always enjoy a chat about writing and growing your Lettership.
 
 *Ernst-Jan Pfauth*  
 *Co-founder of Lettership*
@@ -25,12 +25,10 @@ You log in at lettership.com/dashboard. The menu on the left lists the sections,
 
 **Settings** is where you arrange how your Lettership looks and behaves. Each tab has its own guide: [Profile](instellingen/profiel/), [Branding](instellingen/huisstijl/), [Design](instellingen/vormgeving/), [Mail](instellingen/mail/) and [Embed](instellingen/embed/).
 
-Your own page lives at yourname.lettership.com. That's where your description, your sign-up form, your archive and your pages are. It's what a new reader sees when someone forwards them your link.
-
 If you write for more than one Lettership, you switch at the top left. Each publication has its own settings, articles and pages.
 
 ## What's not there yet
 
 Lettership is brand new and we're busy building. A few things your fellow writers ask about that are still to come: an overview of your subscribers in the dashboard, putting an article online without emailing it, reader comments under your articles, and an MCP. As soon as something lands, I'll add it to these guides.
 
-Missing something, or would you like to see a particular feature on the site? Let [me](mailto:ernst-jan@lettership.com) or Aydın know.
+Missing something, or would you like to see a particular feature on the site? Let [me](mailto:ernst-jan@lettership.com) or Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) know.
