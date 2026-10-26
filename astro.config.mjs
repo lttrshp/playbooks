@@ -26,6 +26,7 @@ export default defineConfig({
       customCss: ['./src/styles/lettership.css'],
       components: {
         ThemeSelect: './src/components/ThemeSelect.astro',
+        LanguageSelect: './src/components/LanguageSelect.astro',
         Footer: './src/components/Footer.astro',
         SocialIcons: './src/components/SocialIcons.astro',
       },

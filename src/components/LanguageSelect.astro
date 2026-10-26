@@ -1,0 +1,24 @@
+---
+// Two links instead of Starlight's dropdown, which truncated "Nederlands".
+// Dutch lives at the root, English under en/.
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const path = `${Astro.url.pathname.slice(base.length)}/`
+  .replace(/^\/?/, '/')
+  .replace(/\/+$/, '/')
+  .replace(/^\/en\//, '/');
+const current = Astro.locals.starlightRoute.locale ?? 'root';
+const langs = [
+  { code: 'root', short: 'NL', label: 'Nederlands', lang: 'nl', href: `${base}${path}` },
+  { code: 'en', short: 'EN', label: 'English', lang: 'en', href: `${base}/en${path}` },
+];
+---
+<nav class="ls-lang" aria-label={Astro.locals.t('languageSelect.accessibleLabel')}>
+  {langs.map((l, i) => (
+    <>
+      {i > 0 && <span class="ls-lang-sep" aria-hidden="true">/</span>}
+      {l.code === current
+        ? <span class="ls-lang-current" aria-current="true" title={l.label}>{l.short}</span>
+        : <a href={l.href} hreflang={l.lang} lang={l.lang} title={l.label}><span class="sr-only">{l.label}</span><span aria-hidden="true">{l.short}</span></a>}
+    </>
+  ))}
+</nav>

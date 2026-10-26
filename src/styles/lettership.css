@@ -120,6 +120,38 @@ dialog {
   text-underline-offset: 6px;
 }
 
+/* Language switch: NL / EN */
+.ls-lang {
+  display: flex;
+  align-self: center;
+  align-items: baseline;
+  gap: 0.4rem;
+  font-family: var(--ls-font-ui);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--ls-plum);
+}
+.ls-lang a,
+.sidebar-content .ls-lang a {
+  color: var(--ls-subtle);
+  font-weight: 500;
+  text-decoration: none;
+}
+.sidebar-content .ls-site-link {
+  color: var(--ls-plum);
+}
+.ls-lang a:hover,
+.sidebar-content .ls-lang a:hover {
+  color: var(--ls-plum);
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
+.ls-lang-sep {
+  color: var(--ls-rule);
+  font-weight: 400;
+}
+
 /* Sidebar */
 .sidebar-content {
   color: var(--ls-plum);
@@ -216,9 +248,13 @@ dialog {
 .sl-markdown-content h2 {
   font-size: clamp(26px, 2.4vw, 34px);
   font-weight: 670;
-  margin-top: 0;
-  padding-top: 56px;
-  margin-bottom: 24px;
+}
+/* The hairline sits on Starlight's heading wrapper, not the inline h2,
+   so it spans the full column instead of only the heading text. */
+.sl-markdown-content .sl-heading-wrapper.level-h2 {
+  margin-top: 3.5rem;
+  padding-top: 2.5rem;
+  margin-bottom: 1.5rem;
   border-top: 1px solid var(--ls-rule);
 }
 .sl-markdown-content h3 {
