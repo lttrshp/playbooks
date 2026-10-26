@@ -1,4 +1,14 @@
 ---
-// Intentionally empty: the playbooks pages end at the content, with no footer.
-// This override also suppresses Starlight's default footer (pagination, credits).
+// Only the previous/next chapter links: no brand footer, and no Starlight
+// edit link, last-updated line or credits.
+import Pagination from 'virtual:starlight/components/Pagination';
 ---
+<footer class="ls-pagination">
+  <Pagination />
+</footer>
+
+<style>
+  .ls-pagination {
+    margin-top: 3rem;
+  }
+</style>
