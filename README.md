@@ -7,6 +7,8 @@ Short guides for Lettership writers: how the platform works and how to grow a ne
 - Fonts: Season and General Sans are licensed, so they are not in this repository; the build downloads them from lettership.com (see `.github/workflows/deploy.yml`).
 - Styling: `src/styles/lettership.css`, ported from the `marketing` layout in `lttrshp/monolith`.
 
+Editing in Obsidian: open the repository root as a vault. `.obsidian/app.json` keeps links in Markdown format (Starlight does not read `[[wikilinks]]`) and drops pasted images in `src/assets/playbooks/`. The Obsidian Git plugin pulls on startup and commits and pushes edits to `main`, which deploys them.
+
 ```sh
 npm install
 npm run dev

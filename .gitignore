@@ -3,3 +3,6 @@ dist/
 .astro/
 # Licensed brand fonts are fetched from lettership.com at build time
 src/assets/fonts/
+# Obsidian: only the shared app.json settings are tracked
+.obsidian/*
+!.obsidian/app.json
