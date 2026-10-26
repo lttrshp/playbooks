@@ -100,12 +100,13 @@ dialog {
   font-family: var(--ls-font-ui);
 }
 
-.header {
-  padding-inline: 1.5rem;
-}
 /* Starlight puts .header on both the <header> and a <div> inside it;
-   only the outer one gets the rule. */
+   only the outer one gets the padding and the rule. The start padding
+   matches the sidebar text, so the logo lines up with its headings; the
+   end padding stays Starlight's, which leaves room for the mobile menu
+   button. */
 header.header {
+  padding-inline-start: 1.5rem;
   border-bottom: 1px solid var(--ls-rule);
 }
 .site-title img {
