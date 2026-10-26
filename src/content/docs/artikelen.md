@@ -11,6 +11,8 @@ description: Een artikel schrijven, publiceren en de leescijfers bekijken.
 
 ## Het overzicht
 
+![Artikelen overzicht](../../assets/playbooks/30-artikelen-overzicht.jpg)
+
 Ga naar **Artikelen**. Het overzicht opent op het tabblad **Live**, met je gepubliceerde artikelen. Al je artikelen, inclusief concepten, vind je onder het laatste tabblad.
 
 ## De editor
@@ -87,7 +89,7 @@ Via de knop **Berichtinstellingen** stel je het webadres van het artikel in en u
 
 ![Publiceren paneel](../../assets/playbooks/34-publiceren-paneel.jpg)
 
-Niemand durfde op de knop Publiceren te drukken, en daarom heet hij nu **Doorgaan**. Dat hoeft ook niet eng te zijn: **die knop verstuurt nog niets.** Het opent een scherm met je mail precies zoals je lezers hem krijgen, met bovenaan hoeveel abonnees hem gaan ontvangen. Er gaat pas iets uit als je in dat scherm op de knop klikt die echt verstuurt of inplant.
+Niemand durfde op de knop Publiceren te drukken, en daarom heet hij nu **Doorgaan**. Dat hoeft ook niet eng te zijn: **die knop verstuurt nog niets.** Het opent een scherm met je mail precies zoals je lezers hem krijgen, met bovenaan hoeveel abonnees hem gaan ontvangen. Er gaat pas iets uit als je in dat scherm op **Publiceren** klikt.
 
 ![Publiceren testmail inplannen](../../assets/playbooks/35-publiceren-testmail-inplannen.jpg)
 

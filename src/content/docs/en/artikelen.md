@@ -11,6 +11,8 @@ description: Writing an article, publishing it and reading the stats.
 
 ## The overview
 
+![Articles, overview](../../../assets/playbooks/30-artikelen-overzicht.jpg)
+
 Go to **Articles**. The overview opens on the **Live** tab, with your published articles. All your articles, drafts included, are under the last tab.
 
 ## The editor
@@ -87,7 +89,7 @@ Via the **Post settings** button you set the web address of the article and uplo
 
 ![Publish panel](../../../assets/playbooks/34-publiceren-paneel.jpg)
 
-Nobody dared to press the Publish button, which is why it's now called **Continue**. It needn't be scary: **that button doesn't send anything yet.** It opens a screen with your email exactly as your readers will get it, with at the top how many subscribers will receive it. Nothing goes out until you click the button in that screen that actually sends or schedules.
+Nobody dared to press the Publish button, which is why it's now called **Continue**. It needn't be scary: **that button doesn't send anything yet.** It opens a screen with your email exactly as your readers will get it, with at the top how many subscribers will receive it. Nothing goes out until you click **Publish** in that screen.
 
 ![Publish, test email and scheduling](../../../assets/playbooks/35-publiceren-testmail-inplannen.jpg)
 

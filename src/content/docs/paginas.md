@@ -24,7 +24,7 @@ Via **Pagina-instellingen** kies je:
 
 - het **webadres** (bij mij simpelweg 'over');
 - een **omslagafbeelding**;
-- of de pagina in het **menu** van je site komt. Dat menu staat onderaan je site. Je kunt een kortere titel opgeven voor in dat menu.
+- of de pagina in het **menu** van je site komt. Dat menu klapt open via het menu-icoon (☰) in het blok rechtsboven op je site. Je kunt een kortere titel opgeven voor in dat menu.
 
 ## Offline halen
 

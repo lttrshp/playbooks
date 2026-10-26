@@ -20,7 +20,7 @@ Er zijn vier velden.
 > Mailprogramma's kunnen geen SVG tonen.
 
 - **Hoofdlogo (woordmerk):** een breed, horizontaal logo voor de kop van je mails en van je site. Minstens 1280 pixels breed.
-- **Voetlogo (monogram):** een vierkant beeldmerk voor het colofon onderaan je mails en op je site.
+- **Voetlogo (monogram):** een vierkant beeldmerk. In je mails staat het in het colofon onderaan, op je site in het blok rechtsboven, boven de knop Abonneer.
 - **De twee varianten voor lichte achtergronden** heb je alleen nodig als je een donkere achtergrond hebt gekozen voor je site. Dan staat daar waarschijnlijk een licht logo op, en dat werkt niet in je mails, want die hebben altijd een lichte achtergrond. Upload hier dan een versie van je logo die goed werkt op licht.
 
 ## Social links

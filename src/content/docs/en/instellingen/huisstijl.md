@@ -20,7 +20,7 @@ There are four fields.
 > Email clients can't display SVG.
 
 - **Main logo (wordmark):** a wide, horizontal logo for the top of your emails and your site. At least 1280 pixels wide.
-- **Footer logo (monogram):** a square mark for the colophon at the bottom of your emails and on your site.
+- **Footer logo (monogram):** a square mark. In your emails it sits in the colophon at the bottom; on your site it's in the box at the top right, above the Subscribe button.
 - **The two variants for light backgrounds** are only needed if you've chosen a dark background for your site. Then you probably have a light logo on it, and that won't work in your emails, because those always have a light background. In that case, upload a version of your logo that works well on light.
 
 ## Social links

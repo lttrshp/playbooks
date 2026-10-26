@@ -24,7 +24,7 @@ Via **Page settings** you choose:
 
 - the **web address** (mine is simply 'over');
 - a **cover image**;
-- whether the page goes in your site's **menu**. That menu sits at the bottom of your site. You can give it a shorter title for that menu.
+- whether the page goes in your site's **menu**. That menu opens via the menu icon (☰) in the box at the top right of your site. You can give it a shorter title for that menu.
 
 ## Taking a page offline
 
