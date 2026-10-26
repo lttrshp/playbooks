@@ -4,7 +4,7 @@ description: Korte gidsen over hoe Lettership werkt en hoe je je nieuwsbrief laa
 tableOfContents: false
 ---
 
-<p class="ls-home-lead">Hi, wat fijn dat je op Lettership schrijft. In deze gidsen leg ik uit hoe het platform werkt en hoe je van je Lettership iets eigens maakt en het laat groeien. </p>
+<p class="ls-home-lead">Hi, wat fijn dat je op Lettership schrijft. In deze gidsen leg ik uit hoe het platform werkt en hoe je van je Lettership iets eigens maakt en het laat groeien.</p>
 
 Eerst het belangrijkste: je hoeft niet alles wat ik beschrijf meteen te doen. Ik heb liever dat je direct een mooie nieuwsbrief gaat tikken, en geen drempel ervaart. Maar ik wil wel dat je weet wat er kan. Want een paar kleine aanpassingen (een goede beschrijving van je Lettership, een welkomstmail, een logo) zorgen ervoor dat lezers blijven en nieuwe lezers zich inschrijven.
 
@@ -23,7 +23,7 @@ Artikelen zijn de edities van je nieuwsbrief. Die schrijf je hier, verstuur je n
 
 Pagina's zijn losse, vaste pagina's zoals een 'Over mij' of 'Contact'. Een pagina gaat niet als mail naar je abonnees en verschijnt ook niet tussen je artikelen in het archief. Je gebruikt ze voor informatie met een langere houdbaarheidsdatum dan een losse nieuwsbrief. Ik heb bijvoorbeeld [een pagina](https://lettership.pfauth.com/over) waarop ik mezelf voorstel en uitleg waarom ik een nieuwsbrief schrijf.
 
-Instellingen is waar je de inrichting van je Lettership regelt. Daar gaat deze gids vooral over.
+Instellingen is waar je de inrichting van je Lettership regelt. Daar gaan deze gidsen vooral over.
 
 Je eigen pagina vind je op jouwnaam.lettership.com. Daar staan je beschrijving, je aanmeldformulier, je archief en je pagina's. Dat is wat een nieuwe lezer ziet als iemand je link doorstuurt.
 
@@ -39,6 +39,6 @@ Mis je iets? Mail [Ernst-Jan](mailto:ernst-jan@lettership.com). Deze gidsen groe
 
 ## Wat er nog niet is
 
-Lettership is gloednieuw en we zijn druk aan het bouwen. Een paar dingen waar je  collega-auteurs naar vragen en die nog komen: een overzicht van je abonnees in het dashboard, een artikel online zetten zonder te mailen, reacties van lezers onder je artikelen en een MCP. Zodra iets erbij komt, vul ik deze gids aan.
+Lettership is gloednieuw en we zijn druk aan het bouwen. Een paar dingen waar je collega-auteurs naar vragen en die nog komen: een overzicht van je abonnees in het dashboard, een artikel online zetten zonder te mailen, reacties van lezers onder je artikelen en een MCP. Zodra iets erbij komt, vul ik deze gidsen aan.
 
 Zou jij graag een bepaalde functie op de site zien? Laat het mij of Aydın weten.
