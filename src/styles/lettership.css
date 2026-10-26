@@ -262,6 +262,12 @@ header.header {
   margin-bottom: 1.5rem;
   border-top: 1px solid var(--ls-rule);
 }
+/* A page that opens with a section heading needs no rule under its title. */
+.sl-markdown-content > .sl-heading-wrapper.level-h2:first-child {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: 0;
+}
 .sl-markdown-content h3 {
   font-size: clamp(21px, 1.8vw, 25px);
   font-weight: 620;

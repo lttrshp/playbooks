@@ -3,15 +3,6 @@ title: Je Lettership inrichten en personaliseren
 description: Hoe je van je Lettership iets eigens maakt, een artikel verstuurt en je nieuwsbrief laat groeien.
 ---
 
-Hi, wat fijn dat je op Lettership schrijft. Dit is de eerste van een reeks korte gidsen waarin ik uitleg hoe het platform werkt en hoe je van je Lettership iets eigens maakt en het laat groeien. 
-
-Eerst het belangrijkste: je hoeft niet alles wat ik beschrijf meteen te doen. Ik heb liever dat je direct een mooie nieuwsbrief gaat tikken, en geen drempel ervaart. Maar ik wil wel dat je weet wat er kan. Want een paar kleine aanpassingen (een goede beschrijving van je Lettership, een welkomstmail, een logo) zorgen ervoor dat lezers blijven en nieuwe lezers zich inschrijven.
-
-Na het lezen van deze gids weet je hoe je een artikel verstuurt en hoe je van je Lettership iets eigens maakt. De rest komt vanzelf. En, ik kan dit niet vaak genoeg zeggen, schroom niet om Aydın te mailen of te appen als je iets niet begrijpt of het niet werkt. En ik vind het ook altijd leuk om met je te sparren over het schrijven en laten groeien van je Lettership.
-
-*Ernst-Jan Pfauth*  
-*Mede-oprichter Lettership*
-
 ## Waar alles staat
 
 ![Dashboard](../../assets/playbooks/01-dashboard.jpg)
