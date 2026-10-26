@@ -2,9 +2,17 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
+const base = (process.env.SITE_BASE || '/').replace(/\/?$/, '/');
+
 export default defineConfig({
   site: 'https://playbooks.lettership.com',
-  base: process.env.SITE_BASE || '/',
+  base,
+  // The old single chapter was split into per-screen playbooks. Astro does
+  // not prefix redirect targets with the base, so they carry it themselves.
+  redirects: {
+    '/inrichten': base,
+    '/en/inrichten': `${base}en/`,
+  },
   integrations: [
     starlight({
       title: 'Lettership Playbooks',
@@ -33,12 +41,18 @@ export default defineConfig({
       pagefind: true,
       sidebar: [
         {
-          label: 'Playbooks',
-          translations: { en: 'Playbooks' },
+          label: 'Instellen van je Lettership',
+          translations: { en: 'Setting up your Lettership' },
           items: [
-            { slug: 'inrichten' },
+            { slug: 'instellingen/profiel' },
+            { slug: 'instellingen/huisstijl' },
+            { slug: 'instellingen/vormgeving' },
+            { slug: 'instellingen/mail' },
+            { slug: 'instellingen/embed' },
           ],
         },
+        { slug: 'artikelen' },
+        { slug: 'paginas' },
       ],
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
       lastUpdated: false,

@@ -37,8 +37,16 @@ Over abonnees en statistieken: je ziet per verzonden nieuwsbrief hoe hij gelezen
 
 ## De hoofdstukken
 
-- [Je Lettership inrichten en personaliseren](inrichten/) — waar alles staat, je beschrijving, huisstijl, vormgeving, de vaste mails, een aanmeldformulier op je eigen site, schrijven en versturen, pagina's.
+- Instellen van je Lettership: [Profiel](instellingen/profiel/), [Huisstijl](instellingen/huisstijl/), [Vormgeving](instellingen/vormgeving/), [Mail](instellingen/mail/) en [Embed](instellingen/embed/).
+- [Artikelen](artikelen/) — een artikel schrijven, publiceren en de leescijfers bekijken.
+- [Pagina's](paginas/) — vaste pagina's zoals 'Over mij' of een pagina voor je boek.
 - *Wat is een goede nieuwsbrief?* — komt eraan.
 - *Verhuizen van Substack of Mailchimp* — komt eraan.
 
 Mis je iets? Mail [Ernst-Jan](mailto:ernst-jan@lettership.com). Deze gidsen groeien mee met Lettership: zodra er een functie bij komt, vullen we ze aan.
+
+## Wat er nog niet is
+
+Lettership is jong. Een paar dingen waar auteurs naar vragen en die nog komen: een overzicht van je abonnees in het dashboard, een artikel online zetten zonder te mailen, reacties van lezers onder je artikelen, en podcastondersteuning. Zodra iets erbij komt, vul ik deze gids aan.
+
+Zou jij graag een bepaalde functie op de site zien? Laat het mij of Aydın weten.
