@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import remarkObsidianCallouts from './src/plugins/remark-obsidian-callouts.mjs';
 
 const base = (process.env.SITE_BASE || '/').replace(/\/?$/, '/');
 
@@ -12,6 +13,9 @@ export default defineConfig({
   redirects: {
     '/inrichten': base,
     '/en/inrichten': `${base}en/`,
+  },
+  markdown: {
+    remarkPlugins: [remarkObsidianCallouts],
   },
   integrations: [
     starlight({

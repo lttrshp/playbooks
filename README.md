@@ -9,6 +9,8 @@ Short guides for Lettership writers: how the platform works and how to grow a ne
 
 Editing in Obsidian: open the repository root as a vault. `.obsidian/app.json` keeps links in Markdown format (Starlight does not read `[[wikilinks]]`) and drops pasted images in `src/assets/playbooks/`. The Obsidian Git plugin pulls on startup and commits and pushes edits to `main`, which deploys them.
 
+Callouts use Obsidian's syntax, which `src/plugins/remark-obsidian-callouts.mjs` renders as Starlight asides: `> [!tip] Title` (plum on salmon; also `example`), `> [!note] Title` (neutral) and `> [!caution] Title` (warning), with the body on the following `> ` lines.
+
 ```sh
 npm install
 npm run dev
