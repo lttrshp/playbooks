@@ -271,8 +271,11 @@ header.header {
 .sl-markdown-content h3 {
   font-size: clamp(21px, 1.8vw, 25px);
   font-weight: 620;
-  margin-top: 2.2em;
-  margin-bottom: 0.7em;
+}
+/* Spacing sits on Starlight's heading wrapper; the h3 inside is inline. */
+.sl-markdown-content .sl-heading-wrapper.level-h3 {
+  margin-top: 2.2rem;
+  margin-bottom: 0.75rem;
 }
 
 /* Lists: Momkai's small round bullet, no indent */
@@ -316,6 +319,45 @@ header.header {
     0 calc(100% - var(--cut)),
     0 var(--cut)
   );
+}
+
+/* Callouts (Obsidian `> [!tip]` syntax, rendered as Starlight asides) */
+.sl-markdown-content .starlight-aside {
+  margin: 1.75rem 0;
+  padding: 1rem 1.25rem 1.1rem;
+  border-inline-start: 3px solid var(--sl-color-asides-border);
+  background: var(--ls-aside-bg);
+  color: var(--ls-foreground);
+}
+.sl-markdown-content .starlight-aside--note {
+  --sl-color-asides-border: var(--ls-accent-text);
+  --sl-color-asides-text-accent: var(--ls-accent-text);
+  --ls-aside-bg: #f3e9e0;
+}
+.sl-markdown-content .starlight-aside--tip {
+  --sl-color-asides-border: var(--ls-plum);
+  --sl-color-asides-text-accent: var(--ls-plum);
+  --ls-aside-bg: color-mix(in srgb, var(--ls-salmon) 55%, var(--ls-surface));
+}
+.sl-markdown-content .starlight-aside--caution,
+.sl-markdown-content .starlight-aside--danger {
+  --sl-color-asides-border: #b4531f;
+  --sl-color-asides-text-accent: #8a3b12;
+  --ls-aside-bg: #f8e3d3;
+}
+.sl-markdown-content .starlight-aside__title {
+  margin: 0;
+  font-family: var(--ls-font-ui);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.sl-markdown-content .starlight-aside__content > :last-child {
+  margin-bottom: 0;
+}
+.sl-markdown-content .starlight-aside__content a {
+  color: inherit;
 }
 
 .sl-markdown-content hr {
