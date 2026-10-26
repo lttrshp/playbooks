@@ -37,8 +37,16 @@ About subscribers and statistics: for each newsletter you've sent you can see ho
 
 ## The chapters
 
-- [Setting up and personalising your Lettership](inrichten/) — where everything lives, your description, branding, design, the standing emails, a sign-up form on your own site, writing and sending, pages.
+- Setting up your Lettership: [Profile](instellingen/profiel/), [Branding](instellingen/huisstijl/), [Design](instellingen/vormgeving/), [Mail](instellingen/mail/) and [Embed](instellingen/embed/).
+- [Articles](artikelen/) — writing an article, publishing it and reading the stats.
+- [Pages](paginas/) — standing pages such as 'About me' or a page for your book.
 - *What makes a good newsletter?* — coming soon.
 - *Moving from Substack or Mailchimp* — coming soon.
 
 Missing something? Email [Ernst-Jan](mailto:ernst-jan@lettership.com). These guides grow with Lettership: whenever a feature lands, we add it here.
+
+## What's not there yet
+
+Lettership is young. A few things writers ask about that are still to come: an overview of your subscribers in the dashboard, putting an article online without emailing it, reader comments under your articles, and podcast support. As soon as something lands, I'll add it to this guide.
+
+Would you like to see a particular feature on the site? Let me or Aydın know.
