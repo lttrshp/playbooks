@@ -1,0 +1,10 @@
+{
+  "autoSaveInterval": 5,
+  "autoPullInterval": 5,
+  "autoPullOnBoot": true,
+  "autoCommitMessage": "Tekst bijgewerkt in Obsidian op {{hostname}}: {{date}}",
+  "commitMessage": "Tekst bijgewerkt in Obsidian op {{hostname}}: {{date}}",
+  "syncMethod": "merge",
+  "pullBeforePush": true,
+  "disablePush": false
+}
