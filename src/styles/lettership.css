@@ -101,8 +101,12 @@ dialog {
 }
 
 .header {
-  border-bottom: 1px solid var(--ls-rule);
   padding-inline: 1.5rem;
+}
+/* Starlight puts .header on both the <header> and a <div> inside it;
+   only the outer one gets the rule. */
+header.header {
+  border-bottom: 1px solid var(--ls-rule);
 }
 .site-title img {
   height: 1.5rem;
