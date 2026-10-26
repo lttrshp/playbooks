@@ -1,26 +1,14 @@
 ---
-import wordmark from '../assets/wordmark.svg';
-const lang = Astro.currentLocale ?? 'nl';
-const t = lang === 'en'
-  ? { readers: 'For readers', writers: 'For writers', contact: 'Contact', tagline: 'Lettership is a Dutch newsletter platform, built by and for writers.', terms: 'Terms', privacy: 'Privacy policy', partner: 'Design partner' }
-  : { readers: 'Voor lezers', writers: 'Voor schrijvers', contact: 'Contact', tagline: 'Lettership is een Nederlands nieuwsbriefplatform, gebouwd door en voor schrijvers.', terms: 'Voorwaarden', privacy: 'Privacybeleid', partner: 'Designpartner' };
+// Only the previous/next chapter links: no brand footer, and no Starlight
+// edit link, last-updated line or credits.
+import Pagination from 'virtual:starlight/components/Pagination';
 ---
-<footer class="ls-footer">
-  <hr class="ls-rule" />
-  <nav class="ls-footer-nav" aria-label="Footer">
-    <a href="https://lettership.com">{t.readers}</a>
-    <a href="https://lettership.com/writers">{t.writers}</a>
-    <a href="mailto:hello@lettership.com">{t.contact}</a>
-  </nav>
-  <hr class="ls-rule" />
-  <div class="ls-footer-brand">
-    <img src={wordmark.src} alt="" width="1498" height="160" class="ls-footer-wordmark" />
-    <p class="ls-footer-tagline">{t.tagline}</p>
-  </div>
-  <hr class="ls-rule" />
-  <div class="ls-footer-legal">
-    <a href="https://lettership.com/terms">{t.terms}</a>
-    <a href="https://lettership.com/privacy">{t.privacy}</a>
-    <a href="https://www.momkai.com" target="_blank" rel="noopener">{t.partner} — Momkai</a>
-  </div>
+<footer class="ls-pagination">
+  <Pagination />
 </footer>
+
+<style>
+  .ls-pagination {
+    margin-top: 3rem;
+  }
+</style>

@@ -120,6 +120,38 @@ dialog {
   text-underline-offset: 6px;
 }
 
+/* Language switch: NL / EN */
+.ls-lang {
+  display: flex;
+  align-self: center;
+  align-items: baseline;
+  gap: 0.4rem;
+  font-family: var(--ls-font-ui);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--ls-plum);
+}
+.ls-lang a,
+.sidebar-content .ls-lang a {
+  color: var(--ls-subtle);
+  font-weight: 500;
+  text-decoration: none;
+}
+.sidebar-content .ls-site-link {
+  color: var(--ls-plum);
+}
+.ls-lang a:hover,
+.sidebar-content .ls-lang a:hover {
+  color: var(--ls-plum);
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
+.ls-lang-sep {
+  color: var(--ls-rule);
+  font-weight: 400;
+}
+
 /* Sidebar */
 .sidebar-content {
   color: var(--ls-plum);
@@ -216,9 +248,13 @@ dialog {
 .sl-markdown-content h2 {
   font-size: clamp(26px, 2.4vw, 34px);
   font-weight: 670;
-  margin-top: 0;
-  padding-top: 56px;
-  margin-bottom: 24px;
+}
+/* The hairline sits on Starlight's heading wrapper, not the inline h2,
+   so it spans the full column instead of only the heading text. */
+.sl-markdown-content .sl-heading-wrapper.level-h2 {
+  margin-top: 3.5rem;
+  padding-top: 2.5rem;
+  margin-bottom: 1.5rem;
   border-top: 1px solid var(--ls-rule);
 }
 .sl-markdown-content h3 {
@@ -297,63 +333,6 @@ dialog {
 :focus-visible {
   outline: 2px solid var(--ls-focus-ring);
   outline-offset: 2px;
-}
-
-/* Footer, ported from site/footer.blade.php */
-.ls-footer {
-  color: var(--ls-plum);
-  font-family: var(--ls-font-ui);
-  margin-top: 4rem;
-}
-.ls-rule {
-  border: 0;
-  border-top: 1px solid var(--ls-rule);
-  margin: 0;
-}
-.ls-footer-nav {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 0.5rem 1.5rem;
-  padding: 1.5rem 0;
-  font-size: 16px;
-  font-weight: 600;
-}
-.ls-footer a {
-  color: inherit;
-  text-decoration: none;
-}
-.ls-footer a:hover {
-  text-decoration: underline;
-}
-.ls-footer-brand {
-  padding: 3rem 0;
-  text-align: center;
-}
-.ls-footer-wordmark {
-  width: 100%;
-  height: auto;
-  opacity: 0.4;
-  margin: 0 auto;
-}
-.ls-footer-tagline {
-  font-family: var(--ls-font-serif);
-  font-style: italic;
-  font-size: 17px;
-  line-height: 1.35;
-  max-width: 38ch;
-  margin: 2rem auto 0;
-}
-.ls-footer-legal {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 0.5rem 1.5rem;
-  padding-top: 1.5rem;
-  font-size: 12px;
-  font-weight: 500;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
 }
 
 /* Home (splash) */
