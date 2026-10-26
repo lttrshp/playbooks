@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.astro/
+# Licensed brand fonts are fetched from lettership.com at build time
+src/assets/fonts/
