@@ -15,6 +15,26 @@ Na het lezen van deze gids weet je hoe je een artikel verstuurt en hoe je van je
 *Ernst-Jan Pfauth*  
 *Mede-oprichter Lettership*
 
+## Waar alles staat
+
+![Dashboard](../../assets/playbooks/01-dashboard.jpg)
+
+Je logt in via lettership.com/dashboard. Links staan vier onderdelen:
+
+Artikelen zijn de edities van je nieuwsbrief. Die schrijf je hier, verstuur je naar je abonnees en ze komen ook online te staan op je eigen Lettership-pagina.
+
+Pagina's zijn losse, vaste pagina's zoals een 'Over mij' of 'Contact'. Een pagina gaat niet als mail naar je abonnees en verschijnt ook niet tussen je artikelen in het archief. Je gebruikt ze voor informatie met een langere houdbaarheidsdatum dan een losse nieuwsbrief. Ik heb bijvoorbeeld [een pagina](https://lettership.pfauth.com/over) waarop ik mezelf voorstel en uitleg waarom ik een nieuwsbrief schrijf.
+
+Instellingen is waar je de inrichting van je Lettership regelt. Daar gaat deze gids vooral over.
+
+Je eigen pagina vind je op jouwnaam.lettership.com. Daar staan je beschrijving, je aanmeldformulier, je archief en je pagina's. Dat is wat een nieuwe lezer ziet als iemand je link doorstuurt.
+
+![Publicatiekiezer](../../assets/playbooks/02-publicatiekiezer.jpg)
+
+Schrijf je voor meer dan één Lettership, dan wissel je linksboven. Elke publicatie heeft eigen instellingen, artikelen en pagina's.
+
+Over abonnees en statistieken: je ziet per verzonden nieuwsbrief hoe hij gelezen is (daarover straks meer bij Leescijfers) en in het verzendscherm hoeveel mensen je mail krijgen. Een overzicht van je abonneebestand zelf komt eraan, dat moeten we nog bouwen.
+
 ## De hoofdstukken
 
 - [Je Lettership inrichten en personaliseren](inrichten/) — waar alles staat, je beschrijving, huisstijl, vormgeving, de vaste mails, een aanmeldformulier op je eigen site, schrijven en versturen, pagina's.

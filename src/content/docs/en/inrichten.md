@@ -3,26 +3,6 @@ title: Setting up and personalising your Lettership
 description: How to make your Lettership your own, send an article and grow your newsletter.
 ---
 
-## Where everything lives
-
-![Dashboard](../../../assets/playbooks/01-dashboard.jpg)
-
-You log in at lettership.com/dashboard. On the left you'll find four sections:
-
-Articles are the editions of your newsletter. You write them here, send them to your subscribers and they also appear online on your own Lettership page.
-
-Pages are standalone, fixed pages such as an 'About me' or 'Contact'. A page is not emailed to your subscribers and doesn't appear among your articles in the archive. You use them for information with a longer shelf life than a single newsletter. I have [a page](https://lettership.pfauth.com/over), for example, where I introduce myself and explain why I write a newsletter.
-
-Settings is where you arrange how your Lettership looks and behaves. That's mostly what this guide is about.
-
-Your own page lives at yourname.lettership.com. That's where your description, your sign-up form, your archive and your pages are. It's what a new reader sees when someone forwards them your link.
-
-![Publication switcher](../../../assets/playbooks/02-publicatiekiezer.jpg)
-
-If you write for more than one Lettership, you switch at the top left. Each publication has its own settings, articles and pages.
-
-About subscribers and statistics: for each newsletter you've sent you can see how it was read (more on that later under Reading stats), and the send screen shows how many people will get your email. An overview of your subscriber list itself is on its way; we still have to build it.
-
 ## Your description: the first thing a new reader sees
 
 ![Settings, profile form](../../../assets/playbooks/11-instellingen-profiel-formulier.jpg)
