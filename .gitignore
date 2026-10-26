@@ -3,6 +3,13 @@ dist/
 .astro/
 # Licensed brand fonts are fetched from lettership.com at build time
 src/assets/fonts/
-# Obsidian: only the shared app.json settings are tracked
+# Obsidian: only shared settings are tracked (app settings, which plugins
+# are on, Obsidian Git's sync settings); plugin code is installed per Mac
 .obsidian/*
 !.obsidian/app.json
+!.obsidian/community-plugins.json
+!.obsidian/plugins/
+.obsidian/plugins/*
+!.obsidian/plugins/obsidian-git/
+.obsidian/plugins/obsidian-git/*
+!.obsidian/plugins/obsidian-git/data.json
