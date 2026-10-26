@@ -61,7 +61,7 @@ Zo opent mijn septembereditie op de site:
 
 Link button maakt een knop in je accentkleur, met eigen tekst en een link. Ik gebruik deze bijvoorbeeld voor een **"Koop mijn boek"-knop** bij de aankondiging van een nieuw boek.
 
-Een knop kan ook een mail openen: begin de link dan met `mailto:`, bijvoorbeeld `mailto:jij@voorbeeld.nl`. Handig voor een knop als "Stuur me een berichtje".
+Een knop kan ook een mail openen: kies bij **Link** dan **E-mail** in plaats van **Web** en vul je mailadres in. Handig voor een knop als "Stuur me een berichtje". Met **Telefoon** belt de lezer je direct.
 
 ### En verder
 

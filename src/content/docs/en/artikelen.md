@@ -61,7 +61,7 @@ This is how my September edition opens on the site:
 
 Link button makes a button in your accent colour, with your own text and a link. I use it, for example, for a **"Buy my book" button** when announcing a new book.
 
-A button can also open an email: start the link with `mailto:`, for example `mailto:you@example.com`. Handy for a button like "Send me a message".
+A button can also open an email: under **Link**, choose **Email** instead of **Web** and enter your email address. Handy for a button like "Send me a message". With **Phone**, readers call you directly.
 
 ### And also
 
