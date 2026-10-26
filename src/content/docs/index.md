@@ -4,13 +4,11 @@ description: Korte gidsen over hoe Lettership werkt en hoe je je nieuwsbrief laa
 tableOfContents: false
 ---
 
-<p class="ls-home-lead">Korte gidsen over hoe Lettership werkt en, belangrijker, hoe je van je nieuwsbrief iets eigens maakt en hem laat groeien. Geen handleiding die je van voor naar achter leest, maar een plek om naartoe te gaan als je iets wilt doen.</p>
-
-Hi, wat fijn dat je op Lettership schrijft. Dit is de eerste van een reeks korte gidsen waarin ik uitleg hoe het platform werkt en hoe je van je Lettership iets eigens maakt en het laat groeien. 
+<p class="ls-home-lead">Hi, wat fijn dat je op Lettership schrijft. In deze gidsen leg ik uit hoe het platform werkt en hoe je van je Lettership iets eigens maakt en het laat groeien. </p>
 
 Eerst het belangrijkste: je hoeft niet alles wat ik beschrijf meteen te doen. Ik heb liever dat je direct een mooie nieuwsbrief gaat tikken, en geen drempel ervaart. Maar ik wil wel dat je weet wat er kan. Want een paar kleine aanpassingen (een goede beschrijving van je Lettership, een welkomstmail, een logo) zorgen ervoor dat lezers blijven en nieuwe lezers zich inschrijven.
 
-Na het lezen van deze gids weet je hoe je een artikel verstuurt en hoe je van je Lettership iets eigens maakt. De rest komt vanzelf. En, ik kan dit niet vaak genoeg zeggen, schroom niet om Aydın te mailen of te appen als je iets niet begrijpt of het niet werkt. En ik vind het ook altijd leuk om met je te sparren over het schrijven en laten groeien van je Lettership.
+Na het lezen van deze gidsen weet je hoe je een artikel verstuurt en hoe je van je Lettership iets eigens maakt. De rest komt vanzelf. En, ik kan dit niet vaak genoeg zeggen, schroom niet om Aydın te mailen of te appen als je iets niet begrijpt of het niet werkt. En ik vind het ook altijd leuk om met je te sparren over het schrijven en laten groeien van je Lettership.
 
 *Ernst-Jan Pfauth*  
 *Mede-oprichter Lettership*
@@ -29,24 +27,18 @@ Instellingen is waar je de inrichting van je Lettership regelt. Daar gaat deze g
 
 Je eigen pagina vind je op jouwnaam.lettership.com. Daar staan je beschrijving, je aanmeldformulier, je archief en je pagina's. Dat is wat een nieuwe lezer ziet als iemand je link doorstuurt.
 
-![Publicatiekiezer](../../assets/playbooks/02-publicatiekiezer.jpg)
-
 Schrijf je voor meer dan één Lettership, dan wissel je linksboven. Elke publicatie heeft eigen instellingen, artikelen en pagina's.
-
-Over abonnees en statistieken: je ziet per verzonden nieuwsbrief hoe hij gelezen is (daarover straks meer bij Leescijfers) en in het verzendscherm hoeveel mensen je mail krijgen. Een overzicht van je abonneebestand zelf komt eraan, dat moeten we nog bouwen.
 
 ## De hoofdstukken
 
 - Instellen van je Lettership: [Profiel](instellingen/profiel/), [Huisstijl](instellingen/huisstijl/), [Vormgeving](instellingen/vormgeving/), [Mail](instellingen/mail/) en [Embed](instellingen/embed/).
 - [Artikelen](artikelen/) — een artikel schrijven, publiceren en de leescijfers bekijken.
 - [Pagina's](paginas/) — vaste pagina's zoals 'Over mij' of een pagina voor je boek.
-- *Wat is een goede nieuwsbrief?* — komt eraan.
-- *Verhuizen van Substack of Mailchimp* — komt eraan.
 
 Mis je iets? Mail [Ernst-Jan](mailto:ernst-jan@lettership.com). Deze gidsen groeien mee met Lettership: zodra er een functie bij komt, vullen we ze aan.
 
 ## Wat er nog niet is
 
-Lettership is jong. Een paar dingen waar auteurs naar vragen en die nog komen: een overzicht van je abonnees in het dashboard, een artikel online zetten zonder te mailen, reacties van lezers onder je artikelen, en podcastondersteuning. Zodra iets erbij komt, vul ik deze gids aan.
+Lettership is gloednieuw en we zijn druk aan het bouwen. Een paar dingen waar je  collega-auteurs naar vragen en die nog komen: een overzicht van je abonnees in het dashboard, een artikel online zetten zonder te mailen, reacties van lezers onder je artikelen en een MCP. Zodra iets erbij komt, vul ik deze gids aan.
 
 Zou jij graag een bepaalde functie op de site zien? Laat het mij of Aydın weten.
