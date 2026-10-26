@@ -17,28 +17,20 @@ Na het lezen van deze gidsen weet je hoe je een artikel verstuurt en hoe je van 
 
 ![Dashboard](../../assets/playbooks/01-dashboard.jpg)
 
-Je logt in via lettership.com/dashboard. Links staan vier onderdelen:
+Je logt in via lettership.com/dashboard. Links in het menu staan de onderdelen, en voor elk onderdeel is er een gids:
 
-Artikelen zijn de edities van je nieuwsbrief. Die schrijf je hier, verstuur je naar je abonnees en ze komen ook online te staan op je eigen Lettership-pagina.
+**[Artikelen](artikelen/)** zijn de edities van je nieuwsbrief. Die schrijf je hier, verstuur je naar je abonnees en ze komen ook online te staan op je eigen Lettership-pagina.
 
-Pagina's zijn losse, vaste pagina's zoals een 'Over mij' of 'Contact'. Een pagina gaat niet als mail naar je abonnees en verschijnt ook niet tussen je artikelen in het archief. Je gebruikt ze voor informatie met een langere houdbaarheidsdatum dan een losse nieuwsbrief. Ik heb bijvoorbeeld [een pagina](https://lettership.pfauth.com/over) waarop ik mezelf voorstel en uitleg waarom ik een nieuwsbrief schrijf.
+**[Pagina's](paginas/)** zijn losse, vaste pagina's zoals een 'Over mij' of 'Contact'. Een pagina gaat niet als mail naar je abonnees en verschijnt ook niet tussen je artikelen in het archief. Je gebruikt ze voor informatie met een langere houdbaarheidsdatum dan een losse nieuwsbrief. Ik heb bijvoorbeeld [een pagina](https://lettership.pfauth.com/over) waarop ik mezelf voorstel en uitleg waarom ik een nieuwsbrief schrijf.
 
-Instellingen is waar je de inrichting van je Lettership regelt. Daar gaan deze gidsen vooral over.
+**Instellingen** is waar je de inrichting van je Lettership regelt. Elk tabblad heeft een eigen gids: [Profiel](instellingen/profiel/), [Huisstijl](instellingen/huisstijl/), [Vormgeving](instellingen/vormgeving/), [Mail](instellingen/mail/) en [Embed](instellingen/embed/).
 
 Je eigen pagina vind je op jouwnaam.lettership.com. Daar staan je beschrijving, je aanmeldformulier, je archief en je pagina's. Dat is wat een nieuwe lezer ziet als iemand je link doorstuurt.
 
 Schrijf je voor meer dan één Lettership, dan wissel je linksboven. Elke publicatie heeft eigen instellingen, artikelen en pagina's.
 
-## De hoofdstukken
-
-- Instellen van je Lettership: [Profiel](instellingen/profiel/), [Huisstijl](instellingen/huisstijl/), [Vormgeving](instellingen/vormgeving/), [Mail](instellingen/mail/) en [Embed](instellingen/embed/).
-- [Artikelen](artikelen/) — een artikel schrijven, publiceren en de leescijfers bekijken.
-- [Pagina's](paginas/) — vaste pagina's zoals 'Over mij' of een pagina voor je boek.
-
-Mis je iets? Mail [Ernst-Jan](mailto:ernst-jan@lettership.com). Deze gidsen groeien mee met Lettership: zodra er een functie bij komt, vullen we ze aan.
-
 ## Wat er nog niet is
 
 Lettership is gloednieuw en we zijn druk aan het bouwen. Een paar dingen waar je collega-auteurs naar vragen en die nog komen: een overzicht van je abonnees in het dashboard, een artikel online zetten zonder te mailen, reacties van lezers onder je artikelen en een MCP. Zodra iets erbij komt, vul ik deze gidsen aan.
 
-Zou jij graag een bepaalde functie op de site zien? Laat het mij of Aydın weten.
+Mis je iets, of zou je graag een bepaalde functie op de site zien? Laat het [mij](mailto:ernst-jan@lettership.com) of Aydın weten.

@@ -17,28 +17,20 @@ After reading these guides you'll know how to send an article and how to make yo
 
 ![Dashboard](../../../assets/playbooks/01-dashboard.jpg)
 
-You log in at lettership.com/dashboard. On the left you'll find four sections:
+You log in at lettership.com/dashboard. The menu on the left lists the sections, and each section has its own guide:
 
-Articles are the editions of your newsletter. You write them here, send them to your subscribers and they also appear online on your own Lettership page.
+**[Articles](artikelen/)** are the editions of your newsletter. You write them here, send them to your subscribers and they also appear online on your own Lettership page.
 
-Pages are standalone, fixed pages such as an 'About me' or 'Contact'. A page is not emailed to your subscribers and doesn't appear among your articles in the archive. You use them for information with a longer shelf life than a single newsletter. I have [a page](https://lettership.pfauth.com/over), for example, where I introduce myself and explain why I write a newsletter.
+**[Pages](paginas/)** are standalone, fixed pages such as an 'About me' or 'Contact'. A page is not emailed to your subscribers and doesn't appear among your articles in the archive. You use them for information with a longer shelf life than a single newsletter. I have [a page](https://lettership.pfauth.com/over), for example, where I introduce myself and explain why I write a newsletter.
 
-Settings is where you arrange how your Lettership looks and behaves. That's mostly what these guides are about.
+**Settings** is where you arrange how your Lettership looks and behaves. Each tab has its own guide: [Profile](instellingen/profiel/), [Branding](instellingen/huisstijl/), [Design](instellingen/vormgeving/), [Mail](instellingen/mail/) and [Embed](instellingen/embed/).
 
 Your own page lives at yourname.lettership.com. That's where your description, your sign-up form, your archive and your pages are. It's what a new reader sees when someone forwards them your link.
 
 If you write for more than one Lettership, you switch at the top left. Each publication has its own settings, articles and pages.
 
-## The chapters
-
-- Setting up your Lettership: [Profile](instellingen/profiel/), [Branding](instellingen/huisstijl/), [Design](instellingen/vormgeving/), [Mail](instellingen/mail/) and [Embed](instellingen/embed/).
-- [Articles](artikelen/) — writing an article, publishing it and reading the stats.
-- [Pages](paginas/) — standing pages such as 'About me' or a page for your book.
-
-Missing something? Email [Ernst-Jan](mailto:ernst-jan@lettership.com). These guides grow with Lettership: whenever a feature lands, we add it here.
-
 ## What's not there yet
 
 Lettership is brand new and we're busy building. A few things your fellow writers ask about that are still to come: an overview of your subscribers in the dashboard, putting an article online without emailing it, reader comments under your articles, and an MCP. As soon as something lands, I'll add it to these guides.
 
-Would you like to see a particular feature on the site? Let me or Aydın know.
+Missing something, or would you like to see a particular feature on the site? Let [me](mailto:ernst-jan@lettership.com) or Aydın know.
