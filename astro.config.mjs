@@ -17,6 +17,9 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [remarkObsidianCallouts],
   },
+  image: {
+    service: { entrypoint: './src/plugins/image-service.mjs' },
+  },
   integrations: [
     starlight({
       title: 'Lettership Playbooks',
