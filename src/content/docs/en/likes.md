@@ -17,7 +17,7 @@ From conversations with writers I know how important it is that you **feel read 
 
 Substack no longer treats the Like button as important: it sits hidden in the generic footer. In my own newsletter I noticed it can be different. At the end of 2025 I asked readers explicitly for a like for the first time: "Did you find this newsletter worthwhile? Let me know with a heart below. I'll head into Christmas extra cheerful if I can see who's happily reading along." **Suddenly people started clicking en masse.** It felt a bit like begging, but it worked remarkably well. I believe people genuinely enjoy letting you know.
 
-That's why on Lettership the invitation sits in the email itself, in words you write yourself.
+That's why on Lettership the invitation sits in the email itself, as a personal message in your name.
 
 > [!example] It works
 > A writer who moved over from Substack noticed that likes on Lettership are about **three times as high** as on Substack. My explanation: there's a clear call to action in the email, and we present it as "let the author know", whereas on Substack it's just a button in the footer. That writer also finds it "really encouraging".
@@ -50,7 +50,9 @@ We only send the title and the link, no text on your reader's behalf.
 
 ## How to switch it on
 
-Go to **Settings › Mail**. In the **Likes** block, switch on asking readers for likes and write the **invitation** that appears at the bottom of every edition. A default text with your name is already there.
+You don't switch likes on yourself: we do that for you. Let [me](mailto:ernst-jan@lettership.com) know and we'll switch them on for your publication. An **invitation** with a default text that includes your name then appears at the bottom of every edition.
+
+You can't edit that text in your dashboard yourself. If you'd like your own invitation, send us the text and we'll put it in.
 
 > [!tip] Write it in the first person
-> Make the invitation personal and say honestly why you'd love it. It may feel like begging, but people are happy to let you know.
+> Want your own text? Make it personal and say honestly why you'd love it. It may feel like begging, but people are happy to let you know.

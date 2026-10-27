@@ -17,7 +17,7 @@ Uit gesprekken met schrijvers weet ik hoe belangrijk het is dat je je **meteen g
 
 Substack behandelt de like-knop niet meer als iets belangrijks: hij zit verstopt in de algemene footer. Ik merkte in mijn eigen nieuwsbrief dat het anders kan. Eind 2025 vroeg ik lezers onderaan voor het eerst expliciet om een hartje, omdat ik dan extra vrolijk de kerst in zou gaan als ik kon zien wie er met plezier meelas. **Opeens begonnen mensen massaal te klikken.** Het voelde een beetje als bedelen, maar het werkte opvallend goed. Ik denk dat mensen het oprecht leuk vinden om het je te laten weten.
 
-Daarom zit die oproep bij Lettership in de mail zelf, met een tekst die je zelf schrijft.
+Daarom zit die oproep bij Lettership in de mail zelf, met een persoonlijke tekst in jouw naam.
 
 > [!example] Het werkt
 > Een schrijver die van Substack overstapte, merkte op dat de likes op Lettership ongeveer **drie keer zo hoog** zijn als op Substack. Mijn verklaring: er staat een duidelijke oproep in de mail, en we presenteren het als "laat het de auteur weten", terwijl het bij Substack alleen een knop in de footer is. Die schrijver vindt het bovendien "heel stimulerend".
@@ -50,7 +50,9 @@ We sturen alleen de titel en de link mee, geen tekst namens je lezer.
 
 ## Zo zet je het aan
 
-Ga naar **Instellingen › Mail**. In het blok **Likes** zet je de schakelaar aan om lezers om likes te vragen, en schrijf je de **uitnodiging** die onderaan elke editie staat. Er staat al een standaardtekst met jouw naam erin.
+Likes zet je niet zelf aan: dat doen wij voor je. Laat het [mij](mailto:ernst-jan@lettership.com) weten, dan zetten we ze aan voor je publicatie. Onderaan elke editie komt dan een **uitnodiging** met een standaardtekst waar jouw naam in staat.
+
+Die tekst kun je niet zelf aanpassen in je dashboard. Wil je een eigen uitnodiging, stuur ons dan de tekst, dan zetten wij hem erin.
 
 > [!tip] Schrijf hem in de ik-vorm
-> Maak de uitnodiging persoonlijk en zeg er eerlijk bij waarom je het fijn vindt. Het voelt misschien als bedelen, maar mensen laten het je graag weten.
+> Wil je een eigen tekst? Maak hem persoonlijk en zeg er eerlijk bij waarom je het fijn vindt. Het voelt misschien als bedelen, maar mensen laten het je graag weten.
