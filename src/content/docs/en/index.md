@@ -34,3 +34,5 @@ You log in at [lettership.com/dashboard](https://lettership.com/dashboard). The 
 Lettership is brand new and we're busy building. A few things your fellow writers ask about that are still to come: an overview of your subscribers in the dashboard, putting an article online without emailing it, reader comments under your articles, and an MCP. As soon as something lands, I'll add it to these guides.
 
 Missing something, or would you like to see a particular feature on the site? Let [me](mailto:ernst-jan@lettership.com) and Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) know.
+
+PS. A practical note: I don't use AI to write my newsletters, such as the Lettership Digest. But I do use it for some parts of these playbooks. For example, an AI tool automatically updates parts of the guides when we introduce a new feature (and we do that all the time). Just so you know!
