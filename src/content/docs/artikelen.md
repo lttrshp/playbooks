@@ -1,6 +1,6 @@
 ---
 title: Artikelen
-description: Een artikel schrijven, publiceren en de leescijfers bekijken.
+description: Een artikel schrijven, opmaken en versturen.
 ---
 
 Artikelen zijn de edities van je nieuwsbrief. Je schrijft ze in het dashboard en **verstuurt ze als nieuwsbrief** naar je abonnees. Daarnaast komen ze online te staan op je eigen Lettership-pagina, in je archief.
@@ -121,18 +121,4 @@ Zo'n ritme is ook een stok achter de deur voor jezelf. Incidentele nieuwsbrieven
 > [!note] Je mails gaan geleidelijk uit
 > Na het versturen gaan je mails geleidelijk uit, zoals bij elke provider. Bij een grote lijst kan dat even duren, en bij je eerste editie na een verhuizing gaat het extra voorzichtig, omdat we onze verzendreputatie beschermen.
 
-## Leescijfers
-
-![Artikelen leescijfers](../../assets/playbooks/33-artikelen-leescijfers.jpg)
-
-Bij elk verzonden artikel staat in het overzicht een knop **Leescijfers**. Daar zie je:
-
-- hoeveel procent je mail opende;
-- hoeveel mensen klikten;
-- hoeveel zich uitschreven;
-- een lijst van de links waar mensen op klikten.
-
-> [!caution] Het openpercentage is een bovengrens
-> Sommige mailprogramma's openen berichten automatisch.
-
-Mijn ervaring: je publiek heeft vaste gewoontes, die cijfers verschillen van editie tot editie niet zo veel. **De kliklijst is het interessantst**, daar zie je waar je lezers echt op aanslaan. De rest bekijk ik eigenlijk nooit, uit vrees dat ik naar de mond van mijn publiek ga schrijven.
+Na het versturen zie je in de [Leescijfers](../leescijfers/) hoe je editie gelezen is.
