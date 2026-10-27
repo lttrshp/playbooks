@@ -13,18 +13,12 @@ description: Lezers laten je met één klik weten dat ze je editie waardeerden, 
 
 ## Waarom we likes zo hebben gemaakt
 
-Uit gesprekken met schrijvers weet ik hoe belangrijk het is dat je je **meteen gelezen voelt**. Overstappen naar Lettership is al spannend genoeg. Iedereen vraagt me: gaat dit mijn groei niet schaden? Als je dan op verzenden drukt en het blijft stil, dan is dat een risico. Ik wil dat je via Lettership zóveel meer waardering krijgt dan via Substack, dat je het wel aan andere schrijvers móét vertellen.
+Uit gesprekken met schrijvers weet ik hoe belangrijk het is dat je je **meteen gelezen voelt**. Als je op verzenden drukt en het blijft stil, kan het lijken alsof je alleen voor jezelf schrijft. Ik wil dat als je via Lettership mailt, je waardering krijgt voor je artikelen. 
 
-Substack behandelt de like-knop niet meer als iets belangrijks: hij zit verstopt in de algemene footer. Ik merkte in mijn eigen nieuwsbrief dat het anders kan. Eind 2025 vroeg ik lezers onderaan voor het eerst expliciet om een hartje, omdat ik dan extra vrolijk de kerst in zou gaan als ik kon zien wie er met plezier meelas. **Opeens begonnen mensen massaal te klikken.** Het voelde een beetje als bedelen, maar het werkte opvallend goed. Ik denk dat mensen het oprecht leuk vinden om het je te laten weten.
-
-Daarom zit die oproep bij Lettership in de mail zelf, met een persoonlijke tekst in jouw naam.
+Daarom staat er onder elke nieuwsbrief de volgende tekst: "Vond je dit een goed artikel? Laat het < jouw naam > weten:"
 
 > [!example] Het werkt
 > Een schrijver die van Substack overstapte, merkte op dat de likes op Lettership ongeveer **drie keer zo hoog** zijn als op Substack. Mijn verklaring: er staat een duidelijke oproep in de mail, en we presenteren het als "laat het de auteur weten", terwijl het bij Substack alleen een knop in de footer is. Die schrijver vindt het bovendien "heel stimulerend".
-
-### Waarom niet gewoon "mail me terug"?
-
-Dat kan natuurlijk ook, en antwoorden op je nieuwsbrief komen gewoon bij je binnen (zie [Profiel](../instellingen/profiel/)). Maar veel schrijvers vinden dat lastig: elke mail voelt als een verplichting om terug te schrijven, en het schuldgevoel als je dat niet doet. Een like vraagt niets van je terug.
 
 ### Waarom zo eenvoudig?
 
@@ -53,6 +47,3 @@ We sturen alleen de titel en de link mee, geen tekst namens je lezer.
 Likes zet je niet zelf aan: dat doen wij voor je. Laat het [mij](mailto:ernst-jan@lettership.com) weten, dan zetten we ze aan voor je publicatie. Onderaan elke editie komt dan een **uitnodiging** met een standaardtekst waar jouw naam in staat.
 
 Die tekst kun je niet zelf aanpassen in je dashboard. Wil je een eigen uitnodiging, stuur ons dan de tekst, dan zetten wij hem erin.
-
-> [!tip] Schrijf hem in de ik-vorm
-> Wil je een eigen tekst? Maak hem persoonlijk en zeg er eerlijk bij waarom je het fijn vindt. Het voelt misschien als bedelen, maar mensen laten het je graag weten.
