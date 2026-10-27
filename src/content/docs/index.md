@@ -12,12 +12,13 @@ Na het lezen van deze gidsen weet je hoe je een artikel verstuurt en hoe je van 
 
 *Ernst-Jan Pfauth*  
 *Mede-oprichter Lettership*
+[ernst-jan@lettership.com](mailto:ernst-jan@lettership.com)
 
 ## Waar alles staat
 
 ![Dashboard](../../assets/playbooks/01-dashboard.jpg)
 
-Je logt in via lettership.com/dashboard. Links in het menu staan de onderdelen, en voor elk onderdeel is er een gids:
+Je logt in via [lettership.com/dashboard](https://lettership.com/dashboard). Links in het menu staan de onderdelen, en voor elk onderdeel is er een gids:
 
 **[Artikelen](artikelen/)** zijn de edities van je nieuwsbrief. Die schrijf je hier, verstuur je naar je abonnees en ze komen ook online te staan op je eigen Lettership-pagina.
 
@@ -25,10 +26,10 @@ Je logt in via lettership.com/dashboard. Links in het menu staan de onderdelen, 
 
 **Instellingen** is waar je de inrichting van je Lettership regelt. Elk tabblad heeft een eigen gids: [Profiel](instellingen/profiel/), [Huisstijl](instellingen/huisstijl/), [Vormgeving](instellingen/vormgeving/), [Mail](instellingen/mail/) en [Embed](instellingen/embed/).
 
-Schrijf je voor meer dan één Lettership, dan wissel je linksboven. Elke publicatie heeft eigen instellingen, artikelen en pagina's.
+> [!note] >Schrijf je voor meer dan één Lettership, dan wissel je linksboven. Elke publicatie heeft eigen instellingen, artikelen en pagina's.
 
-## Wat er nog niet is
+## Wat mis je nog?
 
 Lettership is gloednieuw en we zijn druk aan het bouwen. Een paar dingen waar je collega-auteurs naar vragen en die nog komen: een overzicht van je abonnees in het dashboard, een artikel online zetten zonder te mailen, reacties van lezers onder je artikelen en een MCP. Zodra iets erbij komt, vul ik deze gidsen aan.
 
-Mis je iets, of zou je graag een bepaalde functie op de site zien? Laat het [mij](mailto:ernst-jan@lettership.com) of Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) weten.
+Mis je iets, of zou je graag een bepaalde functie op de site zien? Laat het [mij](mailto:ernst-jan@lettership.com) en Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) weten.
