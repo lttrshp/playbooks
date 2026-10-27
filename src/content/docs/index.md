@@ -11,7 +11,7 @@ Eerst het belangrijkste: je hoeft niet alles wat ik beschrijf meteen te doen. Ik
 Na het lezen van deze gidsen weet je hoe je een artikel verstuurt en hoe je van je Lettership iets eigens maakt. De rest komt vanzelf. En, ik kan dit niet vaak genoeg zeggen, schroom niet om Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) te mailen of te appen als je iets niet begrijpt of het niet werkt. En ik vind het ook altijd leuk om met je te sparren over het schrijven en laten groeien van je Lettership.
 
 *Ernst-Jan Pfauth*  
-*Mede-oprichter Lettership*
+*Mede-oprichter Lettership*  
 [ernst-jan@lettership.com](mailto:ernst-jan@lettership.com)
 
 ## Waar alles staat
@@ -26,7 +26,8 @@ Je logt in via [lettership.com/dashboard](https://lettership.com/dashboard). Lin
 
 **Instellingen** is waar je de inrichting van je Lettership regelt. Elk tabblad heeft een eigen gids: [Profiel](instellingen/profiel/), [Huisstijl](instellingen/huisstijl/), [Vormgeving](instellingen/vormgeving/), [Mail](instellingen/mail/) en [Embed](instellingen/embed/).
 
-> [!note] >Schrijf je voor meer dan één Lettership, dan wissel je linksboven. Elke publicatie heeft eigen instellingen, artikelen en pagina's.
+> [!note] Meerdere publicaties
+> Schrijf je voor meer dan één Lettership, dan wissel je linksboven. Elke publicatie heeft eigen instellingen, artikelen en pagina's.
 
 ## Wat mis je nog?
 
