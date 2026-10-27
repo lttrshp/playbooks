@@ -34,3 +34,5 @@ Je logt in via [lettership.com/dashboard](https://lettership.com/dashboard). Lin
 Lettership is gloednieuw en we zijn druk aan het bouwen. Een paar dingen waar je collega-auteurs naar vragen en die nog komen: een overzicht van je abonnees in het dashboard, een artikel online zetten zonder te mailen, reacties van lezers onder je artikelen en een MCP. Zodra iets erbij komt, vul ik deze gidsen aan.
 
 Mis je iets, of zou je graag een bepaalde functie op de site zien? Laat het [mij](mailto:ernst-jan@lettership.com) en Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) weten.
+
+PS. Nog even een praktische opmerking: voor het schrijven van mijn nieuwsbrieven - zoals de Lettership Digest - gebruik ik geen AI. Maar voor sommige delen van deze playbooks wel. Zo past een AI-tool automatisch delen van de handleidingen aan als we een nieuwe feature introduceren (en dat doen we aan de lopende band). Dat je het weet!

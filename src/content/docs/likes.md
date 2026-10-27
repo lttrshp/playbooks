@@ -7,7 +7,7 @@ description: Lezers laten je met één klik weten dat ze je editie waardeerden, 
 > Likes staan nu aan voor een kleine groep publicaties. Binnenkort komen ze beschikbaar voor iedereen. Wil je ze al proberen? Laat het [mij](mailto:ernst-jan@lettership.com) weten.
 
 > [!tip] In het kort
-> - Onder elke editie vraag je lezers **expliciet** om een like. Dat werkt veel beter dan een knopje dat ergens in de footer staat.
+> - Onder elke editie vragen wij je lezers **expliciet** om een like. Dat werkt veel beter dan een knopje dat ergens in de footer staat.
 > - Na een like vraagt Lettership je lezer om je artikel **persoonlijk door te sturen** naar iemand die het ook zou waarderen.
 > - Onder je artikel op je site staat hoe vaak het geliket is.
 
