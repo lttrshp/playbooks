@@ -7,7 +7,7 @@ description: Readers let you know with one click that they appreciated your edit
 > Likes are currently switched on for a small group of publications. They'll be available to everyone soon. Want to try them already? Let [me](mailto:ernst-jan@lettership.com) know.
 
 > [!tip] In short
-> - Under every edition you ask readers **explicitly** for a like. That works far better than a button tucked away in a footer.
+> - Under every edition we ask your readers **explicitly** for a like. That works far better than a button tucked away in a footer.
 > - After a like, Lettership asks your reader to **pass your article on personally** to someone who would appreciate it too.
 > - Under your article on your site you can see how often it was liked.
 
