@@ -278,6 +278,10 @@ header.header {
   margin-bottom: 0.75rem;
 }
 
+.sl-markdown-content ol {
+  margin-bottom: 1.25em;
+}
+
 /* Lists: Momkai's small round bullet, no indent */
 .sl-markdown-content ul {
   margin: 0 0 1.25em;

@@ -59,6 +59,7 @@ export default defineConfig({
           ],
         },
         { slug: 'artikelen' },
+        { slug: 'likes' },
         { slug: 'paginas' },
       ],
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
