@@ -1,6 +1,6 @@
 ---
 title: Articles
-description: Writing an article, publishing it and reading the stats.
+description: Writing, formatting and sending an article.
 ---
 
 Articles are the editions of your newsletter. You write them in the dashboard and **send them as a newsletter** to your subscribers. They also appear online on your own Lettership page, in your archive.
@@ -121,18 +121,4 @@ Such a rhythm also keeps you honest. Occasional newsletters are fine, but then i
 > [!note] Your emails go out gradually
 > After sending, your emails go out gradually, as with every provider. With a large list that can take a while, and with your first edition after a move it goes extra carefully, because we protect our sending reputation.
 
-## Reading stats
-
-![Articles, reading stats](../../../assets/playbooks/33-artikelen-leescijfers.jpg)
-
-Every sent article has a **Reading stats** button in the overview. It shows:
-
-- what percentage opened your email;
-- how many people clicked;
-- how many unsubscribed;
-- a list of the links people clicked.
-
-> [!caution] The open rate is an upper limit
-> Some email clients open messages automatically.
-
-My experience: your audience has fixed habits, and those numbers don't vary much from edition to edition. **The click list is the most interesting**; that's where you see what your readers really respond to. The rest I hardly ever look at, for fear of writing to please my audience.
+After sending, the [Reading stats](../leescijfers/) show how your edition was read.

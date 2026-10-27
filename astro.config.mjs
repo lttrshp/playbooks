@@ -59,6 +59,7 @@ export default defineConfig({
           ],
         },
         { slug: 'artikelen' },
+        { slug: 'leescijfers' },
         { slug: 'likes' },
         { slug: 'paginas' },
       ],
