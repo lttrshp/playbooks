@@ -3,6 +3,8 @@ title: Articles
 description: Writing an article, publishing it and reading the stats.
 ---
 
+Articles are the editions of your newsletter. You write them in the dashboard and **send them as a newsletter** to your subscribers. They also appear online on your own Lettership page, in your archive.
+
 > [!tip] In short
 > - The **title** is your subject line: the most important line of text in your entire newsletter.
 > - The **Subscribe action** and **Link button** blocks help your newsletter grow.

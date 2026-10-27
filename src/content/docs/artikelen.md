@@ -3,6 +3,8 @@ title: Artikelen
 description: Een artikel schrijven, publiceren en de leescijfers bekijken.
 ---
 
+Artikelen zijn de edities van je nieuwsbrief. Je schrijft ze in het dashboard en **verstuurt ze als nieuwsbrief** naar je abonnees. Daarnaast komen ze online te staan op je eigen Lettership-pagina, in je archief.
+
 > [!tip] In het kort
 > - De **titel** is je onderwerpregel: het belangrijkste regeltje tekst van je hele nieuwsbrief.
 > - De blokken **Subscribe action** en **Link button** laten je nieuwsbrief groeien.
