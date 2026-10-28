@@ -10,7 +10,7 @@ description: Logo's en social links voor je mails en je site.
 
 ![Instellingen huisstijl logos](../../../assets/playbooks/12-instellingen-huisstijl-logos.jpg)
 
-Ga naar **Instellingen › Huisstijl**. Een logo is een leuke bonus. Het zorgt ervoor dat je nieuwsbrief meer opvalt en je geeft je Lettership er een eigen smoel mee. Een mooi opgemaakte Lettership straalt meteen uit dat de verzender het serieus neemt. Kijk bijvoorbeeld naar *Kapitale Kanttekeningen* van Milou Brand, met een eigen logo en een duidelijke beeldlijn.
+Ga naar **Instellingen › Huisstijl**. Een logo is een leuke bonus. Het zorgt ervoor dat je nieuwsbrief meer opvalt en je geeft je Lettership er een eigen smoel mee. Een mooi opgemaakte Lettership straalt meteen uit dat de verzender het serieus neemt. Kijk bijvoorbeeld naar [*Kapitale Kanttekeningen*](https://miloubrand.lettership.com) van Milou Brand, met een eigen logo en een duidelijke beeldlijn.
 
 ## Logo's
 
