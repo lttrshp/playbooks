@@ -21,7 +21,7 @@ Na het lezen van deze gidsen weet je hoe je een artikel verstuurt en hoe je van 
 
 ![Dashboard](../../assets/playbooks/01-dashboard.jpg)
 
-Je logt in via [lettership.com/dashboard](https://lettership.com/dashboard). Links in het menu staan de onderdelen, en voor elk onderdeel is er een gids:
+Je logt in via [lettership.com/writer](https://lettership.com/writer). Links in het menu staan de onderdelen, en voor elk onderdeel is er een gids:
 
 **[Artikelen](artikelen/)** zijn de edities van je nieuwsbrief. Die schrijf je hier, verstuur je naar je abonnees en ze komen ook online te staan op je eigen Lettership-pagina.
 

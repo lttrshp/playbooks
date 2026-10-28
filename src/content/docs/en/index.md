@@ -21,7 +21,7 @@ After reading these guides you'll know how to send an article and how to make yo
 
 ![Dashboard](../../../assets/playbooks/en/01-dashboard.jpg)
 
-You log in at [lettership.com/dashboard](https://lettership.com/dashboard). The menu on the left lists the sections, and each section has its own guide:
+You log in at [lettership.com/writer](https://lettership.com/writer). The menu on the left lists the sections, and each section has its own guide:
 
 **[Articles](artikelen/)** are the editions of your newsletter. You write them here, send them to your subscribers and they also appear online on your own Lettership page.
 
