@@ -5,7 +5,7 @@ description: Je naam, je beschrijving en de basisinstellingen van je Lettership.
 
 > [!tip] In het kort
 > - Je **beschrijving** is het eerste wat nieuwe bezoekers zien. Zeg wie je bent, wat lezers van je krijgen en vraag ze expliciet om zich in te schrijven.
-> - Kies een **naam** die werkt als merk, niet alleen je eigen naam.
+> - Kies een **naam** die werkt als merk.
 > - **Taal**, **tijdzone** en **reacties doorsturen** stel je één keer in.
 
 ## Je beschrijving: het eerste wat een nieuwe lezer ziet
