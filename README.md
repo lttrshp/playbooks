@@ -16,4 +16,4 @@ npm install
 npm run dev
 ```
 
-For playbooks.lettership.com: set `SITE_BASE=/` in the workflow and add the custom domain under Settings › Pages.
+The site is served from https://playbooks.lettership.com (custom domain under Settings › Pages, DNS `CNAME playbooks → lttrshp.github.io`). It builds for the root path; to serve it under a subpath instead, set `SITE_BASE` (e.g. `/playbooks/`) on the build step in the workflow.
