@@ -35,4 +35,4 @@ Lettership is gloednieuw en we zijn druk aan het bouwen. Een paar dingen waar je
 
 Mis je iets, of zou je graag een bepaalde functie op de site zien? Laat het [mij](mailto:ernst-jan@lettership.com) en Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) weten.
 
-PS. Nog even een praktische opmerking: voor het schrijven van mijn nieuwsbrieven - zoals de Lettership Digest - gebruik ik geen AI. Maar voor sommige delen van deze playbooks wel. Zo past een AI-tool automatisch delen van de handleidingen aan als we een nieuwe feature introduceren (en dat doen we aan de lopende band). Dat je het weet!
+PS. Nog even een praktische opmerking: voor het schrijven van mijn nieuwsbrieven - zoals de [Lettership Digest](https://digest.lettership.com) - gebruik ik geen AI. Maar voor sommige delen van deze playbooks wel. Zo past een AI-tool automatisch delen van de handleidingen aan als we een nieuwe feature introduceren (en dat doen we aan de lopende band). Dat je het weet!
