@@ -10,7 +10,7 @@ description: Logos and social links for your emails and your site.
 
 ![Settings, branding, logos](../../../../assets/playbooks/12-instellingen-huisstijl-logos.jpg)
 
-Go to **Settings › Branding**. A logo is a nice bonus. It makes your newsletter stand out more and gives your Lettership a face of its own. A nicely designed Lettership immediately signals that the sender takes it seriously. Look at *Kapitale Kanttekeningen* by Milou Brand, for example, with its own logo and a clear visual line.
+Go to **Settings › Branding**. A logo is a nice bonus. It makes your newsletter stand out more and gives your Lettership a face of its own. A nicely designed Lettership immediately signals that the sender takes it seriously. Look at [*Kapitale Kanttekeningen*](https://miloubrand.lettership.com) by Milou Brand, for example, with its own logo and a clear visual line.
 
 ## Logos
 
