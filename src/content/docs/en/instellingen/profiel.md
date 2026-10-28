@@ -5,7 +5,7 @@ description: Your name, your description and the basic settings of your Lettersh
 
 > [!tip] In short
 > - Your **description** is the first thing new visitors see. Say who you are, what readers get from you, and ask them explicitly to subscribe.
-> - Choose a **name** that works as a brand, not just your own name.
+> - Choose a **name** that works as a brand.
 > - **Language**, **time zone** and **forward replies** are set once.
 
 ## Your description: the first thing a new reader sees
