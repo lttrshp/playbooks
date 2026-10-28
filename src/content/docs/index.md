@@ -8,6 +8,9 @@ tableOfContents: false
 
 Eerst het belangrijkste: je hoeft niet alles wat ik beschrijf meteen te doen. Ik heb liever dat je direct een mooie nieuwsbrief gaat tikken, en geen drempel ervaart. Maar ik wil wel dat je weet wat er kan. Want een paar kleine aanpassingen (een goede beschrijving van je Lettership, een welkomstmail, een logo) zorgen ervoor dat lezers blijven en nieuwe lezers zich inschrijven.
 
+> [!tip] Tip
+> Zorg in ieder geval dat je een [welkomstmail](instellingen/mail/#welkomstmail) schrijft.
+
 Na het lezen van deze gidsen weet je hoe je een artikel verstuurt en hoe je van je Lettership iets eigens maakt. De rest komt vanzelf. En, ik kan dit niet vaak genoeg zeggen, schroom niet om Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) te mailen of te appen als je iets niet begrijpt of het niet werkt. En ik vind het ook altijd leuk om met je te sparren over het schrijven en laten groeien van je Lettership.
 
 *Ernst-Jan Pfauth*  

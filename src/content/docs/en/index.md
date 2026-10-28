@@ -8,6 +8,9 @@ tableOfContents: false
 
 First things first: you don't have to do everything I describe right away. I'd rather you start typing a good newsletter straight away and don't hit any hurdles. But I do want you to know what's possible. Because a few small changes (a good description of your Lettership, a welcome email, a logo) make readers stay and new readers sign up.
 
+> [!tip] Tip
+> Whatever else you do, make sure you write a [welcome email](instellingen/mail/#welcome-email).
+
 After reading these guides you'll know how to send an article and how to make your Lettership your own. The rest follows. And, I can't say this often enough, don't hesitate to email or message Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) if something is unclear or doesn't work. I also always enjoy a chat about writing and growing your Lettership.
 
 *Ernst-Jan Pfauth*  
