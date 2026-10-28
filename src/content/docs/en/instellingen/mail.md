@@ -11,7 +11,7 @@ description: The standing texts around every edition, the welcome email and the 
 
 Go to **Settings › Mail**. Okay, this is an important screen. It holds the texts that surround every newsletter, and the two emails every new reader gets first.
 
-![Settings, mail](../../../../assets/playbooks/19-instellingen-mail.jpg)
+![Settings, mail](../../../../assets/playbooks/en/19-instellingen-mail.jpg)
 
 ## Opening text
 
@@ -36,7 +36,7 @@ It sounds odd, but with every newsletter you have to assume **people have forgot
 
 ## Welcome email
 
-![Settings, mail, welcome email](../../../../assets/playbooks/20-instellingen-mail-welkomstmail.jpg)
+![Settings, mail, welcome email](../../../../assets/playbooks/en/20-instellingen-mail-welkomstmail.jpg)
 
 **Your welcome email is your most important edition.** People have just subscribed and are completely open to hearing more from you. So use this email to:
 
@@ -60,7 +60,7 @@ Here's how to set it up:
 
 ## Confirmation email
 
-![Settings, mail, confirmation email](../../../../assets/playbooks/21-instellingen-mail-bevestigingsmail.jpg)
+![Settings, mail, confirmation email](../../../../assets/playbooks/en/21-instellingen-mail-bevestigingsmail.jpg)
 
 The confirmation email is an administrative thing we have to do to prevent spam bots from subscribing to your newsletter, or someone entering somebody else's email address. **Someone only becomes a subscriber after clicking the button in this email.**
 

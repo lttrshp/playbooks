@@ -5,7 +5,7 @@ description: Standing pages such as 'About me' or a page for your book.
 
 Pages are standalone, fixed pages such as an 'About me' or 'Contact'. A page is not emailed to your subscribers and doesn't appear among your articles in the archive. You use them for information with a longer shelf life than a single newsletter. I have [a page](https://lettership.pfauth.com/over), for example, where I introduce myself and explain why I write a newsletter.
 
-![Pages overview](../../../assets/playbooks/40-paginas-overzicht.jpg)
+![Pages overview](../../../assets/playbooks/en/40-paginas-overzicht.jpg)
 
 A few ideas:
 
@@ -18,7 +18,7 @@ A few ideas:
 
 ## Making a page
 
-![Page settings](../../../assets/playbooks/42-paginas-instellingen.jpg)
+![Page settings](../../../assets/playbooks/en/42-paginas-instellingen.jpg)
 
 You write a page in the same editor as an [article](../artikelen/). Above is my ['About' page](https://lettership.pfauth.com/over), with a short introduction and a few quotes from readers.
 
