@@ -3,9 +3,9 @@ title: Reading stats
 description: "How your sent edition was read: opens, clicks and unsubscribes."
 ---
 
-![Articles, reading stats](../../../assets/playbooks/33-artikelen-leescijfers.jpg)
+![Articles, reading stats](../../../assets/playbooks/en/33-artikelen-leescijfers.jpg)
 
-Every sent article has a **Reading stats** button in the overview. It shows:
+Every sent article has a **How it did** button in the overview. It shows:
 
 - what percentage opened your email;
 - how many people clicked;

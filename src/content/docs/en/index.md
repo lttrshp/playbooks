@@ -19,7 +19,7 @@ After reading these guides you'll know how to send an article and how to make yo
 
 ## Where everything lives
 
-![Dashboard](../../../assets/playbooks/01-dashboard.jpg)
+![Dashboard](../../../assets/playbooks/en/01-dashboard.jpg)
 
 You log in at [lettership.com/dashboard](https://lettership.com/dashboard). The menu on the left lists the sections, and each section has its own guide:
 

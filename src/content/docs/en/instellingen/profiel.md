@@ -10,7 +10,7 @@ description: Your name, your description and the basic settings of your Lettersh
 
 ## Your description: the first thing a new reader sees
 
-![Settings, profile form](../../../../assets/playbooks/11-instellingen-profiel-formulier.jpg)
+![Settings, profile form](../../../../assets/playbooks/en/11-instellingen-profiel-formulier.jpg)
 
 Go to **Settings › Profile**. At the bottom you'll find the **Description** field. This is a very important text, because it's the first thing new visitors see, at the top of your homepage, with the sign-up form right below it. This is where you introduce yourself and convince visitors to subscribe.
 

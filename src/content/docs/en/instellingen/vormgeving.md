@@ -3,7 +3,7 @@ title: Design
 description: Accent colour, background and typeface of your Lettership.
 ---
 
-![Settings, design](../../../../assets/playbooks/14-instellingen-vormgeving.jpg)
+![Settings, design](../../../../assets/playbooks/en/14-instellingen-vormgeving.jpg)
 
 Go to **Settings › Design**. You make three choices:
 
@@ -18,4 +18,4 @@ I find this hard to give advice on, because it's taste. You pick your favourite 
 > [!tip] Check the phone view
 > That's where most people read you.
 
-![Design preview](../../../../assets/playbooks/18-vormgeving-preview.jpg)
+![Design preview](../../../../assets/playbooks/en/18-vormgeving-preview.jpg)

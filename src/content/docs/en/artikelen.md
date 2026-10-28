@@ -13,13 +13,13 @@ Articles are the editions of your newsletter. You write them in the dashboard an
 
 ## The overview
 
-![Articles, overview](../../../assets/playbooks/30-artikelen-overzicht.jpg)
+![Articles, overview](../../../assets/playbooks/en/30-artikelen-overzicht.jpg)
 
 Go to **Articles**. The overview opens on the **Live** tab, with your published articles. All your articles, drafts included, are under the last tab.
 
 ## The editor
 
-![Articles, editor](../../../assets/playbooks/31-artikelen-editor.jpg)
+![Articles, editor](../../../assets/playbooks/en/31-artikelen-editor.jpg)
 
 Click **New article**. You get a title, a subtitle and the text.
 
@@ -46,7 +46,7 @@ Besides the usual formatting (bold, italic, headings, quotes, lists, tables) the
 
 ### Subscribe action
 
-![Subscribe action block](../../../assets/playbooks/38-blok-subscribe-cta.jpg)
+![Subscribe action block](../../../assets/playbooks/en/38-blok-subscribe-cta.jpg)
 
 Subscribe action puts a sign-up form in your article. **You should always assume people are reading your newsletter online without being a member yet**, because someone sent them the link. This block gives them the idea. Add a short, personal text.
 
@@ -59,7 +59,7 @@ This is how my September edition opens on the site:
 
 ### Link button
 
-![Link button block](../../../assets/playbooks/39-blok-link-button.jpg)
+![Link button block](../../../assets/playbooks/en/39-blok-link-button.jpg)
 
 Link button makes a button in your accent colour, with your own text and a link. I use it, for example, for a **"Buy my book" button** when announcing a new book.
 
@@ -73,14 +73,14 @@ A button can also open an email: under **Link**, choose **Email** instead of **W
 
 This is what it looks like in the editor, with a Subscribe action at the top, a SoundCloud embed and a button at the bottom:
 
-![Editor with blocks](../../../assets/playbooks/31b-artikelen-editor-blokken.jpg)
+![Editor with blocks](../../../assets/playbooks/en/31b-artikelen-editor-blokken.jpg)
 
 > [!tip] Feel free to link to your own work
 > Feel free to link to things you've made before. If I find what you do interesting, I don't consider it spam when you link to an article of your own. But do pull out one thing that's enjoyable on its own, even if someone doesn't click through.
 
 ## Post settings
 
-![Articles, post settings](../../../assets/playbooks/32-artikelen-berichtinstellingen.jpg)
+![Articles, post settings](../../../assets/playbooks/en/32-artikelen-berichtinstellingen.jpg)
 
 Via the **Post settings** button you set the web address of the article and upload a **cover image**. That cover isn't in the email or in the article itself, but it's visible in your archive on Lettership, on social media and in search engines. It draws attention there, so it's worth it.
 
@@ -89,11 +89,11 @@ Via the **Post settings** button you set the web address of the article and uplo
 
 ## Sending
 
-![Publish panel](../../../assets/playbooks/34-publiceren-paneel.jpg)
+![Publish panel](../../../assets/playbooks/en/34-publiceren-paneel.jpg)
 
 Nobody dared to press the Publish button, which is why it's now called **Continue**. It needn't be scary: **that button doesn't send anything yet.** It opens a screen with your email exactly as your readers will get it, with at the top how many subscribers will receive it. Nothing goes out until you click **Publish** in that screen.
 
-![Publish, test email and scheduling](../../../assets/playbooks/35-publiceren-testmail-inplannen.jpg)
+![Publish, test email and scheduling](../../../assets/playbooks/en/35-publiceren-testmail-inplannen.jpg)
 
 Below the preview are two things I always use.
 

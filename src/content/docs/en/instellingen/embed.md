@@ -3,7 +3,7 @@ title: Embed
 description: A sign-up form for your Lettership on your own site.
 ---
 
-![Settings, embed](../../../../assets/playbooks/22-instellingen-embed.jpg)
+![Settings, embed](../../../../assets/playbooks/en/22-instellingen-embed.jpg)
 
 Go to **Settings › Embed**. If you have your own site, you want visitors to be able to subscribe to your Lettership there. That's what this form is for.
 
