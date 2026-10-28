@@ -21,7 +21,11 @@ Ga naar **Instellingen › Profiel**. Onderaan staat het veld **Beschrijving**. 
 - **Maak expliciet dat ze zich moeten inschrijven.** Mensen bekijken alles met halve aandacht, omdat er zo veel om aandacht vraagt. Dus je moet altijd alle gewenste acties van lezers uitspellen.
 
 > [!example] Zo doe ik het
-> Ik schrijf in mijn beschrijving dat ik medeoprichter van De Correspondent ben en dat meer dan 32.000 mensen de nieuwsbrief al lezen.
+> Dit is mijn beschrijving:
+>
+> *Beste lezer,*
+>
+> *Dank dat je meeleest. Ik ben Ernst-Jan Pfauth, medeoprichter van De Correspondent en schrijver van Intentioneel leven. Elke maand deel ik een algoritmevrij lijstje van 15 aanbevelingen over cultuur, creativiteit, ondernemerschap en focus. Ben je nog geen lid? Geef je net als meer dan 32.000 anderen op:*
 
 > [!note] Let op
 > Dit is een andere tekst dan de openingstekst van je mails (die staat onder [Mail](../mail/)) en een andere dan een pagina die je zelf aanmaakt.

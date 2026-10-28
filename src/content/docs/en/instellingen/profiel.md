@@ -21,7 +21,11 @@ Go to **Settings › Profile**. At the bottom you'll find the **Description** fi
 - **Say explicitly that they should subscribe.** People look at everything with half their attention, because so much is asking for it. So always spell out every action you want readers to take.
 
 > [!example] How I do it
-> In my description I write that I co-founded De Correspondent and that more than 32,000 people already read the newsletter.
+> This is my description (translated from Dutch):
+>
+> *Dear reader,*
+>
+> *Thanks for reading along. I'm Ernst-Jan Pfauth, co-founder of De Correspondent and author of Intentioneel leven. Every month I share an algorithm-free list of 15 recommendations on culture, creativity, entrepreneurship and focus. Not a member yet? Join more than 32,000 others:*
 
 > [!note] Note
 > This is a different text from the opening text of your emails (that one lives under [Mail](../mail/)) and different again from a page you create yourself.
