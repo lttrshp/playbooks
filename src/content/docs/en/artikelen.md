@@ -101,7 +101,7 @@ Click **Save** to keep your choices.
 
 ![Publish panel](../../../assets/playbooks/en/34-publiceren-paneel.jpg)
 
-Nobody dared to press the Publish button, which is why it's now called **Continue**. It needn't be scary: **that button doesn't send anything yet.** It opens a screen with your email exactly as your readers will get it, with at the top how many subscribers will receive it. Nothing goes out until you click **Publish** in that screen.
+Done with a first version? Click **Continue**. That button doesn't send anything yet. It opens a screen with your email exactly as your readers will get it, with at the top how many subscribers will receive it. Nothing goes out until you click **Publish** in that screen.
 
 ![Publish, test email and scheduling](../../../assets/playbooks/en/35-publiceren-testmail-inplannen.jpg)
 
