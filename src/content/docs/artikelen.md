@@ -101,7 +101,7 @@ Klik op **Opslaan** om je keuzes te bewaren.
 
 ![Publiceren paneel](../../assets/playbooks/34-publiceren-paneel.jpg)
 
-Niemand durfde op de knop Publiceren te drukken, en daarom heet hij nu **Doorgaan**. Dat hoeft ook niet eng te zijn: **die knop verstuurt nog niets.** Het opent een scherm met je mail precies zoals je lezers hem krijgen, met bovenaan hoeveel abonnees hem gaan ontvangen. Er gaat pas iets uit als je in dat scherm op **Publiceren** klikt.
+Klaar met een eerste versie? Klik op **Doorgaan**. Die knop verstuurt nog niets. Het opent een scherm met je mail precies zoals je lezers hem krijgen, met bovenaan hoeveel abonnees hem gaan ontvangen. Er gaat pas iets uit als je in dat scherm op **Publiceren** klikt.
 
 ![Publiceren testmail inplannen](../../assets/playbooks/35-publiceren-testmail-inplannen.jpg)
 
