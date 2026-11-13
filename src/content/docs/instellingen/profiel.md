@@ -44,7 +44,7 @@ Kies een aansprekende naam voor je nieuwsbrief. **Liever niet alleen je eigen na
 
 ### Taal
 
-Nederlands of Engels. Dit is de taal van je Lettership en je nieuwsbrieven. Schrijf je in het Engels, zet hem dan op Engels.
+Nederlands of Engels. Dit is de taal van je site en de mails aan je lezers. Schrijf je in het Engels, zet hem dan op Engels.
 
 ### Tijdzone
 
@@ -54,4 +54,4 @@ De klok van je publicatie. Bepaalt de datums die lezers op je mails zien en de t
 
 Lezers antwoorden op je nieuwsbrief met de reply-knop in hun mailprogramma, en die antwoorden zie alleen jij. Ik vind alle tips en aardige reacties een verrijking van mijn leven.
 
-**Voor de meeste auteurs kan dit veld gewoon leeg blijven:** dan komen de reacties binnen op het adres waarmee je bent ingelogd op Lettership. Ontvang je ze liever in een andere inbox, dan vul je hier dat adres in.
+**Voor de meeste auteurs kan dit veld gewoon leeg blijven:** dan komen de reacties binnen op het adres waarmee je bent ingelogd op Lettership. Ontvang je ze liever in een andere inbox, dan vul je hier dat adres in. Stuurt een lezer een bijlage mee, dan komt die ook bij je aan.

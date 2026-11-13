@@ -11,7 +11,7 @@ Eerst het belangrijkste: je hoeft niet alles wat ik beschrijf meteen te doen. Ik
 > [!tip] Tip
 > Zorg in ieder geval dat je een [welkomstmail](instellingen/mail/#welkomstmail) schrijft.
 
-Na het lezen van deze gidsen weet je hoe je een artikel verstuurt en hoe je van je Lettership iets eigens maakt. De rest komt vanzelf. En, ik kan dit niet vaak genoeg zeggen, schroom niet om Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) te mailen of te appen als je iets niet begrijpt of het niet werkt. En ik vind het ook altijd leuk om met je te sparren over het schrijven en laten groeien van je Lettership.
+Na het lezen van deze gidsen weet je hoe je een brief verstuurt en hoe je van je Lettership iets eigens maakt. De rest komt vanzelf. En, ik kan dit niet vaak genoeg zeggen, schroom niet om Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) te mailen of te appen als je iets niet begrijpt of het niet werkt. En ik vind het ook altijd leuk om met je te sparren over het schrijven en laten groeien van je Lettership.
 
 *Ernst-Jan Pfauth*  
 *Mede-oprichter Lettership*  
@@ -21,20 +21,20 @@ Na het lezen van deze gidsen weet je hoe je een artikel verstuurt en hoe je van 
 
 ![Dashboard](../../assets/playbooks/01-dashboard.jpg)
 
-Je logt in via [lettership.com/writer](https://lettership.com/writer). Links in het menu staan de onderdelen, en voor elk onderdeel is er een gids:
+Je logt in via [lettership.com/writer](https://lettership.com/writer). Op het dashboard zie je hoeveel abonnees je hebt, en met **Bekijk je site** rechtsboven open je je eigen Lettership-pagina. Links in het menu staan de onderdelen, en voor elk onderdeel is er een gids:
 
-**[Artikelen](artikelen/)** zijn de edities van je nieuwsbrief. Die schrijf je hier, verstuur je naar je abonnees en ze komen ook online te staan op je eigen Lettership-pagina.
+**[Brieven](artikelen/)** zijn de edities van je nieuwsbrief. Op Lettership verstuur je brieven: je schrijft ze hier, verstuurt ze naar je abonnees en ze komen ook online te staan op je eigen Lettership-pagina.
 
-**[Pagina's](paginas/)** zijn losse, vaste pagina's zoals een 'Over mij' of 'Contact'. Een pagina gaat niet als mail naar je abonnees en verschijnt ook niet tussen je artikelen in het archief. Je gebruikt ze voor informatie met een langere houdbaarheidsdatum dan een losse nieuwsbrief. Ik heb bijvoorbeeld [een pagina](https://lettership.pfauth.com/over) waarop ik mezelf voorstel en uitleg waarom ik een nieuwsbrief schrijf.
+**[Pagina's](paginas/)** zijn losse, vaste pagina's zoals een 'Over mij' of 'Contact'. Een pagina gaat niet als mail naar je abonnees en verschijnt ook niet tussen je brieven in het archief. Je gebruikt ze voor informatie met een langere houdbaarheidsdatum dan een losse nieuwsbrief. Ik heb bijvoorbeeld [een pagina](https://lettership.pfauth.com/over) waarop ik mezelf voorstel en uitleg waarom ik een nieuwsbrief schrijf.
 
 **Instellingen** is waar je de inrichting van je Lettership regelt. Elk tabblad heeft een eigen gids: [Profiel](instellingen/profiel/), [Huisstijl](instellingen/huisstijl/), [Vormgeving](instellingen/vormgeving/), [Mail](instellingen/mail/) en [Embed](instellingen/embed/).
 
 > [!note] Meerdere publicaties
-> Schrijf je voor meer dan één Lettership, dan wissel je linksboven. Elke publicatie heeft eigen instellingen, artikelen en pagina's.
+> Schrijf je voor meer dan één Lettership, dan wissel je linksboven. Elke publicatie heeft eigen instellingen, brieven en pagina's.
 
 ## Wat mis je nog?
 
-Lettership is gloednieuw en we zijn druk aan het bouwen. Een paar dingen waar je collega-auteurs naar vragen en die nog komen: een overzicht van je abonnees in het dashboard, een artikel online zetten zonder te mailen, reacties van lezers onder je artikelen en een MCP. Zodra iets erbij komt, vul ik deze gidsen aan.
+Lettership is gloednieuw en we zijn druk aan het bouwen. Een paar dingen waar je collega-auteurs naar vragen en die nog komen: een overzicht van je abonnees in het dashboard (het aantal zie je er al), reacties van lezers onder je brieven en een MCP. Zodra iets erbij komt, vul ik deze gidsen aan.
 
 Mis je iets, of zou je graag een bepaalde functie op de site zien? Laat het [mij](mailto:ernst-jan@lettership.com) en Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) weten.
 

@@ -11,7 +11,7 @@ Go to **Settings › Design**. You make three choices:
 - **Background:** six, including one dark one: Aubergine.
 - **Typeface:** seven, including **Season**, Lettership's own typeface. New publications start on Season.
 
-Below them you immediately see what your homepage and your latest article look like, on desktop, tablet and phone.
+Below them you immediately see what your homepage and your latest letter look like, on desktop, tablet and phone.
 
 I find this hard to give advice on, because it's taste. You pick your favourite typeface and match the colours to what you like. The combinations are chosen so they're always easy to read.
 

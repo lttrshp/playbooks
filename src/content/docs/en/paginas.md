@@ -3,7 +3,7 @@ title: Pages
 description: Standing pages such as 'About me' or a page for your book.
 ---
 
-Pages are standalone, fixed pages such as an 'About me' or 'Contact'. A page is not emailed to your subscribers and doesn't appear among your articles in the archive. You use them for information with a longer shelf life than a single newsletter. I have [a page](https://lettership.pfauth.com/over), for example, where I introduce myself and explain why I write a newsletter.
+Pages are standalone, fixed pages such as an 'About me' or 'Contact'. A page is not emailed to your subscribers and doesn't appear among your letters in the archive. You use them for information with a longer shelf life than a single newsletter. I have [a page](https://lettership.pfauth.com/over), for example, where I introduce myself and explain why I write a newsletter.
 
 ![Pages overview](../../../assets/playbooks/en/40-paginas-overzicht.jpg)
 
@@ -20,7 +20,7 @@ A few ideas:
 
 ![Page settings](../../../assets/playbooks/en/42-paginas-instellingen.jpg)
 
-You write a page in the same editor as an [article](../artikelen/). Above is my ['About' page](https://lettership.pfauth.com/over), with a short introduction and a few quotes from readers.
+You write a page in the same editor as a [letter](../artikelen/). Above is my ['About' page](https://lettership.pfauth.com/over), with a short introduction and a few quotes from readers.
 
 Via **Page settings** you choose:
 
@@ -30,4 +30,4 @@ Via **Page settings** you choose:
 
 ## Taking a page offline
 
-**Take offline** removes a page from your site again. Changes to a page that's live appear as soon as you save.
+**Take offline** removes a page from your site again. Changes to a page that's live appear as soon as you click **Save**. **View** opens the page on your site.

@@ -1,11 +1,11 @@
 ---
 title: Leescijfers
-description: "Hoe je verzonden editie gelezen is: opens, kliks en uitschrijvingen."
+description: "Hoe je verzonden brief gelezen is: opens, kliks en uitschrijvingen."
 ---
 
-![Artikelen leescijfers](../../assets/playbooks/33-artikelen-leescijfers.jpg)
+![Leescijfers van een brief](../../assets/playbooks/33-artikelen-leescijfers.jpg)
 
-Bij elk verzonden artikel staat in het overzicht een knop **Leescijfers**. Daar zie je:
+Bij elke verzonden brief staat in het overzicht een knop **Leescijfers**. Dezelfde knop staat bovenaan als je een verzonden brief opent. Daar zie je:
 
 - hoeveel procent je mail opende;
 - hoeveel mensen klikten;

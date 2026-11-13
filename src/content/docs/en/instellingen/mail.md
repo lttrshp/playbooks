@@ -4,6 +4,7 @@ description: The standing texts around every edition, the welcome email and the 
 ---
 
 > [!tip] In short
+> - The **sender name** is the name readers see in their inbox. By default that's the name of your publication.
 > - The **opening text** reintroduces you in every edition and links to your Lettership.
 > - A **postal address** is required by law. If you leave it empty, we show Lettership's.
 > - The **welcome email** is your most important edition: get it right once, and it helps every new reader after that.
@@ -12,6 +13,13 @@ description: The standing texts around every edition, the welcome email and the 
 Go to **Settings › Mail**. Okay, this is an important screen. It holds the texts that surround every newsletter, and the two emails every new reader gets first.
 
 ![Settings, mail](../../../../assets/playbooks/en/19-instellingen-mail.jpg)
+
+## Sender name
+
+At the top is the **Sender name** field: the name readers see as the sender in their inbox. Leave it blank and we use the name of your publication. For most newsletters that works best, because readers recognise your email by the name of your publication. If you're better known than your newsletter, enter your own name.
+
+> [!tip] Keep it short
+> Most inboxes only show about 25 characters. Longer names get cut off.
 
 ## Opening text
 
@@ -53,7 +61,7 @@ Here's how to set it up:
 
 1. Flip the switch.
 2. Choose a subject. It also appears as the **title at the top of the email, with your name below it**, just like your regular editions. So pick a subject that works as a headline too.
-3. Write the content in the same editor as your articles.
+3. Write the content in the same editor as your letters.
 
 > [!tip] Coming from another platform?
 > Also mention that you now write on Lettership, so readers who find you through an old channel know where to go.

@@ -44,7 +44,7 @@ Choose an appealing name for your newsletter. **Preferably not just your own nam
 
 ### Language
 
-Dutch or English. This is the language of your Lettership and your newsletters. If you write in English, set it to English.
+Dutch or English. This is the language of your site and the emails to your readers. If you write in English, set it to English.
 
 ### Time zone
 
@@ -54,4 +54,4 @@ The clock of your publication. It determines the dates readers see on your email
 
 Readers reply to your newsletter with the reply button in their email client, and only you see those replies. I find all the tips and kind messages an enrichment of my life.
 
-**For most writers this field can simply stay empty:** replies then arrive at the address you use to log in to Lettership. If you'd rather receive them in another inbox, enter that address here.
+**For most writers this field can simply stay empty:** replies then arrive at the address you use to log in to Lettership. If you'd rather receive them in another inbox, enter that address here. If a reader attaches a file, it reaches you too.

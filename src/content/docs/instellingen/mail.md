@@ -4,6 +4,7 @@ description: De vaste teksten rond elke editie, de welkomstmail en de bevestigin
 ---
 
 > [!tip] In het kort
+> - De **afzendernaam** is de naam die lezers in hun inbox zien. Standaard is dat de naam van je publicatie.
 > - De **openingstekst** stelt je elke editie opnieuw voor en linkt naar je Lettership.
 > - Een **postadres** is wettelijk verplicht. Vul je niets in, dan tonen we dat van Lettership.
 > - De **welkomstmail** is je belangrijkste editie: één keer goed maken, daarna helpt hij elke nieuwe lezer.
@@ -12,6 +13,13 @@ description: De vaste teksten rond elke editie, de welkomstmail en de bevestigin
 Ga naar **Instellingen › Mail**. Oké, dit is een belangrijk scherm. Hier staan de teksten die om elke nieuwsbrief heen staan, en de twee mails die elke nieuwe lezer als eerste krijgt.
 
 ![Instellingen mail](../../../assets/playbooks/19-instellingen-mail.jpg)
+
+## Afzendernaam
+
+Bovenaan staat het veld **Afzendernaam**: de naam die lezers als afzender in hun inbox zien. Laat je het leeg, dan gebruiken we de naam van je publicatie. Voor de meeste nieuwsbrieven werkt dat het best, want lezers herkennen je mail aan de naam van je publicatie. Ben je zelf bekender dan je nieuwsbrief, vul dan je eigen naam in.
+
+> [!tip] Houd hem kort
+> In de meeste inboxen passen maar zo'n 25 tekens. Langere namen worden afgekort.
 
 ## Openingstekst
 
@@ -53,7 +61,7 @@ Zo stel je hem in:
 
 1. Zet de schakelaar aan.
 2. Kies een onderwerp. Dat staat ook als **titel bovenaan de mail, met jouw naam eronder**, net als bij je gewone edities. Kies dus een onderwerp dat ook als kop werkt.
-3. Schrijf de inhoud in dezelfde editor als je artikelen.
+3. Schrijf de inhoud in dezelfde editor als je brieven.
 
 > [!tip] Kom je van een ander platform?
 > Zet er dan ook in dat je voortaan op Lettership schrijft, zodat lezers die je via een oud kanaal vinden, weten waar ze moeten zijn.

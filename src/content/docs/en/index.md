@@ -11,7 +11,7 @@ First things first: you don't have to do everything I describe right away. I'd r
 > [!tip] Tip
 > Whatever else you do, make sure you write a [welcome email](instellingen/mail/#welcome-email).
 
-After reading these guides you'll know how to send an article and how to make your Lettership your own. The rest follows. And, I can't say this often enough, don't hesitate to email or message Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) if something is unclear or doesn't work. I also always enjoy a chat about writing and growing your Lettership.
+After reading these guides you'll know how to send a letter and how to make your Lettership your own. The rest follows. And, I can't say this often enough, don't hesitate to email or message Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) if something is unclear or doesn't work. I also always enjoy a chat about writing and growing your Lettership.
 
 *Ernst-Jan Pfauth*  
 *Co-founder of Lettership*  
@@ -21,20 +21,20 @@ After reading these guides you'll know how to send an article and how to make yo
 
 ![Dashboard](../../../assets/playbooks/en/01-dashboard.jpg)
 
-You log in at [lettership.com/writer](https://lettership.com/writer). The menu on the left lists the sections, and each section has its own guide:
+You log in at [lettership.com/writer](https://lettership.com/writer). The dashboard shows how many subscribers you have, and **Visit your site** at the top right opens your own Lettership page. The menu on the left lists the sections, and each section has its own guide:
 
-**[Articles](artikelen/)** are the editions of your newsletter. You write them here, send them to your subscribers and they also appear online on your own Lettership page.
+**[Letters](artikelen/)** are the editions of your newsletter. On Lettership you send letters: you write them here, send them to your subscribers and they also appear online on your own Lettership page.
 
-**[Pages](paginas/)** are standalone, fixed pages such as an 'About me' or 'Contact'. A page is not emailed to your subscribers and doesn't appear among your articles in the archive. You use them for information with a longer shelf life than a single newsletter. I have [a page](https://lettership.pfauth.com/over), for example, where I introduce myself and explain why I write a newsletter.
+**[Pages](paginas/)** are standalone, fixed pages such as an 'About me' or 'Contact'. A page is not emailed to your subscribers and doesn't appear among your letters in the archive. You use them for information with a longer shelf life than a single newsletter. I have [a page](https://lettership.pfauth.com/over), for example, where I introduce myself and explain why I write a newsletter.
 
 **Settings** is where you arrange how your Lettership looks and behaves. Each tab has its own guide: [Profile](instellingen/profiel/), [Branding](instellingen/huisstijl/), [Design](instellingen/vormgeving/), [Mail](instellingen/mail/) and [Embed](instellingen/embed/).
 
 > [!note] More than one publication
-> If you write for more than one Lettership, you switch at the top left. Each publication has its own settings, articles and pages.
+> If you write for more than one Lettership, you switch at the top left. Each publication has its own settings, letters and pages.
 
 ## What are you missing?
 
-Lettership is brand new and we're busy building. A few things your fellow writers ask about that are still to come: an overview of your subscribers in the dashboard, putting an article online without emailing it, reader comments under your articles, and an MCP. As soon as something lands, I'll add it to these guides.
+Lettership is brand new and we're busy building. A few things your fellow writers ask about that are still to come: an overview of your subscribers in the dashboard (the number is already there), reader comments under your letters, and an MCP. As soon as something lands, I'll add it to these guides.
 
 Missing something, or would you like to see a particular feature on the site? Let [me](mailto:ernst-jan@lettership.com) and Aydın ([aydin@lettership.com](mailto:aydin@lettership.com)) know.
 
