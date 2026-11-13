@@ -30,4 +30,4 @@ Via **Page settings** you choose:
 
 ## Taking a page offline
 
-**Take offline** removes a page from your site again. Changes to a page that's live appear as soon as you click **Save**. **View** opens the page on your site.
+**Unpublish** removes a page from your site again. Changes to a page that's live appear as soon as you click **Save**. **View** opens the page on your site.
