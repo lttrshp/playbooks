@@ -7,8 +7,8 @@ description: De vaste teksten rond elke editie, de welkomstmail en de bevestigin
 > - De **afzendernaam** is de naam die lezers in hun inbox zien. Standaard is dat de naam van je publicatie.
 > - De **openingstekst** stelt je elke editie opnieuw voor en linkt naar je Lettership.
 > - Een **postadres** is wettelijk verplicht. Vul je niets in, dan tonen we dat van Lettership.
-> - De **welkomstmail** is je belangrijkste editie: één keer goed maken, daarna helpt hij elke nieuwe lezer.
 > - De **bevestigingsmail**: kort en doelgericht.
+> - De **welkomstmail** is je belangrijkste editie: één keer goed maken, daarna helpt hij elke nieuwe lezer.
 
 Ga naar **Instellingen › Mail**. Oké, dit is een belangrijk scherm. Hier staan de teksten die om elke nieuwsbrief heen staan, en de twee mails die elke nieuwe lezer als eerste krijgt.
 
@@ -42,6 +42,17 @@ Het klinkt gek, maar je moet er bij elke nieuwsbrief vanuit gaan dat **mensen ve
 > [!caution] Liever niet je thuisadres
 > Ik zou om privacyoverwegingen je thuisadres er niet neerzetten.
 
+## Bevestigingsmail
+
+![Instellingen mail bevestigingsmail](../../../assets/playbooks/21-instellingen-mail-bevestigingsmail.jpg)
+
+De bevestigingsmail is een administratief dingetje dat we moeten doen om te voorkomen dat spambots zich op je nieuwsbrief abonneren, of dat iemand andermans e-mailadres invult. **Iemand is pas abonnee nadat hij in deze mail op de knop heeft geklikt.**
+
+Je kunt onze standaardtekst gebruiken, maar je mag ook je eigen woorden kiezen, want het is het eerste contactmoment met je lezer in zijn inbox. **Houd het kort en doelgericht.** Het enige wat telt is dat ze hun inschrijving bevestigen.
+
+> [!example] Zo doe ik het
+> Bij mij is de aanhef "Nog één stap en je bent lid van mijn nieuwsbrief", met daaronder: "Klik op de knop hieronder om je abonnement op mijn maandelijkse nieuwsbrief te bevestigen. Heel leuk dat je meeleest!" De aanhef zegt meteen wat er van de lezer verwacht wordt.
+
 ## Welkomstmail
 
 ![Instellingen mail welkomstmail](../../../assets/playbooks/20-instellingen-mail-welkomstmail.jpg)
@@ -65,14 +76,3 @@ Zo stel je hem in:
 
 > [!tip] Kom je van een ander platform?
 > Zet er dan ook in dat je voortaan op Lettership schrijft, zodat lezers die je via een oud kanaal vinden, weten waar ze moeten zijn.
-
-## Bevestigingsmail
-
-![Instellingen mail bevestigingsmail](../../../assets/playbooks/21-instellingen-mail-bevestigingsmail.jpg)
-
-De bevestigingsmail is een administratief dingetje dat we moeten doen om te voorkomen dat spambots zich op je nieuwsbrief abonneren, of dat iemand andermans e-mailadres invult. **Iemand is pas abonnee nadat hij in deze mail op de knop heeft geklikt.**
-
-Je kunt onze standaardtekst gebruiken, maar je mag ook je eigen woorden kiezen, want het is het eerste contactmoment met je lezer in zijn inbox. **Houd het kort en doelgericht.** Het enige wat telt is dat ze hun inschrijving bevestigen.
-
-> [!example] Zo doe ik het
-> Bij mij is de aanhef "Nog één stap en je bent lid van mijn nieuwsbrief", met daaronder: "Klik op de knop hieronder om je abonnement op mijn maandelijkse nieuwsbrief te bevestigen. Heel leuk dat je meeleest!" De aanhef zegt meteen wat er van de lezer verwacht wordt.

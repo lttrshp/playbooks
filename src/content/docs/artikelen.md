@@ -7,7 +7,7 @@ Brieven zijn de edities van je nieuwsbrief. Je schrijft ze in het dashboard en *
 
 > [!tip] In het kort
 > - De **titel** is je onderwerpregel: het belangrijkste regeltje tekst van je hele nieuwsbrief.
-> - Het **Abonneerblok** en de **Knop** laten je nieuwsbrief groeien.
+> - Het **Abonneerblok** en de **Knop** laten je nieuwsbrief groeien. Je vindt ze onder **Invoegen**.
 > - **Doorgaan verstuurt nog niets.** Je krijgt eerst een voorvertoning, een testmail en de keuze: nu versturen, inplannen of alleen op je site zetten.
 > - Kies een **vast ritme**. Het gaat om de som van je nieuwsbrieven.
 
@@ -24,6 +24,16 @@ Achter elke brief staan de knoppen **Openen** (om hem te bewerken), **Bekijken**
 ![Brieven editor](../../assets/playbooks/31-artikelen-editor.jpg)
 
 Klik op **Nieuwe brief**. Je krijgt een titel, een ondertitel en de tekst. Met **Terug naar je concepten** ga je terug naar het overzicht.
+
+Boven je tekst staat de werkbalk. Van links naar rechts:
+
+- **Ongedaan maken** en **Opnieuw**;
+- **Stijl**: normale tekst, kop, subkop of codeblok, en links uitlijnen, centreren of rechts uitlijnen;
+- vet, cursief, onderstrepen en doorhalen;
+- **Link** en **Voetnoot**;
+- opsommingstekens, een genummerde lijst en een citaatblok;
+- **Afbeelding toevoegen**;
+- **Invoegen**: alles wat je verder in je brief kunt zetten.
 
 ### Titel
 
@@ -44,15 +54,17 @@ De ondertitel is in veel mailprogramma's zichtbaar na het onderwerp. Daar licht 
 
 ## Blokken die je nieuwsbrief laten groeien
 
-Naast de gewone opmaak (vet, cursief, koppen, citaten, lijsten, tabellen) zitten er een paar knoppen in de werkbalk die je nieuwsbrief laten groeien.
+Rechts in de werkbalk staat **Invoegen**. Daaronder vind je audio, fragmenten van YouTube, Spotify, SoundCloud en Instagram, een scheidingslijn, een tabel, en de twee blokken die je nieuwsbrief laten groeien: het **Abonneerblok** en de **Knop**.
+
+![Het menu Invoegen in de editor](../../assets/playbooks/31c-artikelen-editor-invoegen.jpg)
 
 ### Abonneerblok
 
 ![Abonneerblok](../../assets/playbooks/38-blok-subscribe-cta.jpg)
 
-Het Abonneerblok zet een aanmeldformulier in je brief. **Je moet er altijd vanuit gaan dat mensen je nieuwsbrief online lezen terwijl ze nog geen lid zijn**, omdat iemand ze de link stuurde. Met dit blok breng je ze op het idee. Zet er bij **Introtekst** een korte, persoonlijke tekst bij.
+Kies **Invoegen › Abonneerblok**. Het Abonneerblok zet een aanmeldformulier in je brief. **Je moet er altijd vanuit gaan dat mensen je nieuwsbrief online lezen terwijl ze nog geen lid zijn**, omdat iemand ze de link stuurde. Met dit blok breng je ze op het idee. Zet er bij **Introtekst** een korte, persoonlijke tekst bij.
 
-Wil je die tekst later aanpassen? Klik dan opnieuw op **Abonneerblok** in de werkbalk. Het venster opent met je huidige tekst, en met **Opslaan** pas je het blok aan.
+Wil je die tekst later aanpassen? Kies dan opnieuw **Invoegen › Abonneerblok**. Staat er al een Abonneerblok in je brief, dan zie je een vinkje achter die optie. Het venster opent met je huidige tekst, en met **Opslaan** pas je het blok aan.
 
 > [!note] In de mail
 > In de mail zelf wordt alleen die tekst getoond. Het formulier staat op de webversie.
@@ -65,16 +77,17 @@ Zo opent mijn septembereditie op de site:
 
 ![Knop invoegen](../../assets/playbooks/39-blok-link-button.jpg)
 
-**Knop** maakt een knop in je accentkleur, met eigen tekst en een link. Ik gebruik deze bijvoorbeeld voor een **"Koop mijn boek"-knop** bij de aankondiging van een nieuw boek. Vul de **tekst op de knop** en de **link** in en klik op **Invoegen**.
+**Invoegen › Knop** maakt een knop in je accentkleur, met eigen tekst en een link. Ik gebruik deze bijvoorbeeld voor een **"Koop mijn boek"-knop** bij de aankondiging van een nieuw boek. Vul de **tekst op de knop** en de **link** in en klik op **Invoegen**.
 
 Een knop kan ook een mail openen: kies bij **Link** dan **E-mail** in plaats van **Web** en vul je mailadres in. Handig voor een knop als "Stuur me een berichtje". Met **Telefoon** belt de lezer je direct.
 
 ### En verder
 
-- **Voetnoot** is voor dingen die te ver voeren om in de tekst zelf te noemen, maar die je wel wilt meegeven. Ze verschijnen onderaan de brief.
-- **Afbeelding toevoegen**, met een onderschrift dat in mail en op web wordt getoond. Omdat nieuwsbrieven zo persoonlijk zijn, gebruik ik vaak foto's die ik zelf heb gemaakt.
-- **Audio:** upload een eigen geluidsfragment (MP3, M4A of WAV, tot 30 MB), met als je wilt een bijschrift. Op je site speelt het fragment direct af. In de mail staat een knop **Beluister het fragment**, die naar het fragment op je site leidt, want mailprogramma's kunnen geen audio afspelen.
-- **YouTube, Spotify, SoundCloud en Instagram:** plak de link en het fragment staat in je brief.
+- **Voetnoot** (in de werkbalk) is voor dingen die te ver voeren om in de tekst zelf te noemen, maar die je wel wilt meegeven. Ze verschijnen onderaan de brief.
+- **Afbeelding toevoegen** (in de werkbalk), met een onderschrift dat in mail en op web wordt getoond. Omdat nieuwsbrieven zo persoonlijk zijn, gebruik ik vaak foto's die ik zelf heb gemaakt.
+- **Invoegen › Audio:** upload een eigen geluidsfragment (MP3, M4A of WAV, tot 30 MB), met als je wilt een bijschrift. Op je site speelt het fragment direct af. In de mail staat een knop **Beluister het fragment**, die naar het fragment op je site leidt, want mailprogramma's kunnen geen audio afspelen.
+- **Invoegen › YouTube-video, Spotify, SoundCloud of Instagram-post:** plak de link en het fragment staat in je brief.
+- **Invoegen › Scheidingslijn** en **Tabel:** een lijn tussen twee delen van je brief, of een tabel.
 
 Zo ziet dat er in de editor uit, met een SoundCloud-fragment en een knop:
 

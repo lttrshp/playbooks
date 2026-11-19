@@ -7,8 +7,8 @@ description: The standing texts around every edition, the welcome email and the 
 > - The **sender name** is the name readers see in their inbox. By default that's the name of your publication.
 > - The **opening text** reintroduces you in every edition and links to your Lettership.
 > - A **postal address** is required by law. If you leave it empty, we show Lettership's.
-> - The **welcome email** is your most important edition: get it right once, and it helps every new reader after that.
 > - The **confirmation email**: short and focused.
+> - The **welcome email** is your most important edition: get it right once, and it helps every new reader after that.
 
 Go to **Settings › Mail**. Okay, this is an important screen. It holds the texts that surround every newsletter, and the two emails every new reader gets first.
 
@@ -42,6 +42,17 @@ It sounds odd, but with every newsletter you have to assume **people have forgot
 > [!caution] Preferably not your home address
 > For privacy reasons I wouldn't put your home address in.
 
+## Confirmation email
+
+![Settings, mail, confirmation email](../../../../assets/playbooks/en/21-instellingen-mail-bevestigingsmail.jpg)
+
+The confirmation email is an administrative thing we have to do to prevent spam bots from subscribing to your newsletter, or someone entering somebody else's email address. **Someone only becomes a subscriber after clicking the button in this email.**
+
+You can use our default text, but you can also choose your own words, because it's the first moment of contact with your reader in their inbox. **Keep it short and focused.** All that matters is that they confirm their subscription.
+
+> [!example] How I do it
+> Mine opens with "One more step and you're a member of my newsletter", followed by: "Click the button below to confirm your subscription to my monthly newsletter. Great to have you reading along!" The opening line says straight away what's expected of the reader.
+
 ## Welcome email
 
 ![Settings, mail, welcome email](../../../../assets/playbooks/en/20-instellingen-mail-welkomstmail.jpg)
@@ -65,14 +76,3 @@ Here's how to set it up:
 
 > [!tip] Coming from another platform?
 > Also mention that you now write on Lettership, so readers who find you through an old channel know where to go.
-
-## Confirmation email
-
-![Settings, mail, confirmation email](../../../../assets/playbooks/en/21-instellingen-mail-bevestigingsmail.jpg)
-
-The confirmation email is an administrative thing we have to do to prevent spam bots from subscribing to your newsletter, or someone entering somebody else's email address. **Someone only becomes a subscriber after clicking the button in this email.**
-
-You can use our default text, but you can also choose your own words, because it's the first moment of contact with your reader in their inbox. **Keep it short and focused.** All that matters is that they confirm their subscription.
-
-> [!example] How I do it
-> Mine opens with "One more step and you're a member of my newsletter", followed by: "Click the button below to confirm your subscription to my monthly newsletter. Great to have you reading along!" The opening line says straight away what's expected of the reader.

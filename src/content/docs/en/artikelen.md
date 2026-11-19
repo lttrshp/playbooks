@@ -7,7 +7,7 @@ Letters are the editions of your newsletter. You write them in the dashboard and
 
 > [!tip] In short
 > - The **title** is your subject line: the most important line of text in your entire newsletter.
-> - The **Subscribe form** and the **Button** help your newsletter grow.
+> - The **Subscribe form** and the **Button** help your newsletter grow. You'll find them under **Insert**.
 > - **Continue doesn't send anything yet.** You first get a preview, a test email and a choice: send now, schedule, or put it on your site only.
 > - Choose a **fixed rhythm**. It's the sum of your newsletters that counts.
 
@@ -24,6 +24,16 @@ Next to every letter are the buttons **Open** (to edit it), **View** (how it loo
 ![Letters, editor](../../../assets/playbooks/en/31-artikelen-editor.jpg)
 
 Click **New letter**. You get a title, a subtitle and the text. **Back to drafts** takes you back to the overview.
+
+Above your text is the toolbar. From left to right:
+
+- **Undo** and **Redo**;
+- **Style**: normal text, heading, subheading or code block, and align left, centre or align right;
+- bold, italic, underline and strikethrough;
+- **Link** and **Footnote**;
+- a bulleted list, a numbered list and a quote;
+- **Image**;
+- **Insert**: everything else you can put in your letter.
 
 ### Title
 
@@ -44,15 +54,17 @@ The subtitle is visible after the subject in many email clients. Use it to expla
 
 ## Blocks that help your newsletter grow
 
-Besides the usual formatting (bold, italic, headings, quotes, lists, tables) the toolbar has a few buttons that help your newsletter grow.
+On the right of the toolbar is **Insert**. It holds audio, embeds from YouTube, Spotify, SoundCloud and Instagram, a divider, a table, and the two blocks that help your newsletter grow: the **Subscribe form** and the **Button**.
+
+![The Insert menu in the editor](../../../assets/playbooks/en/31c-artikelen-editor-invoegen.jpg)
 
 ### Subscribe form
 
 ![Subscribe form block](../../../assets/playbooks/en/38-blok-subscribe-cta.jpg)
 
-The Subscribe form puts a sign-up form in your letter. **You should always assume people are reading your newsletter online without being a member yet**, because someone sent them the link. This block gives them the idea. Add a short, personal text under **Tagline**.
+Choose **Insert › Subscribe form**. The Subscribe form puts a sign-up form in your letter. **You should always assume people are reading your newsletter online without being a member yet**, because someone sent them the link. This block gives them the idea. Add a short, personal text under **Tagline**.
 
-Want to change that text later? Click **Subscribe form** in the toolbar again. The dialog opens with your current text, and **Save** updates the block.
+Want to change that text later? Choose **Insert › Subscribe form** again. If your letter already has a Subscribe form, that option shows a check mark. The dialog opens with your current text, and **Save** updates the block.
 
 > [!note] In the email
 > In the email itself only that text is shown. The form appears in the web version.
@@ -65,16 +77,17 @@ This is how my September edition opens on the site:
 
 ![Insert button](../../../assets/playbooks/en/39-blok-link-button.jpg)
 
-**Button** makes a button in your accent colour, with your own text and a link. I use it, for example, for a **"Buy my book" button** when announcing a new book. Fill in the **button text** and the **link** and click **Insert**.
+**Insert › Button** makes a button in your accent colour, with your own text and a link. I use it, for example, for a **"Buy my book" button** when announcing a new book. Fill in the **button text** and the **link** and click **Insert**.
 
 A button can also open an email: under **Link**, choose **Email** instead of **Web** and enter your email address. Handy for a button like "Send me a message". With **Phone**, readers call you directly.
 
 ### And also
 
-- **Footnote** is for things that go too far to mention in the text itself, but that you still want to pass on. They appear at the bottom of the letter.
-- **Image** adds a picture, with a caption that is shown in email and on the web. Because newsletters are so personal, I often use photos I took myself.
-- **Audio:** upload your own audio clip (MP3, M4A or WAV, up to 30 MB), with a caption if you like. On your site the clip plays right away. The email shows a **Listen to the clip** button that leads to the clip on your site, because email clients can't play audio.
-- **YouTube, Spotify, SoundCloud and Instagram:** paste the link and the embed sits in your letter.
+- **Footnote** (in the toolbar) is for things that go too far to mention in the text itself, but that you still want to pass on. They appear at the bottom of the letter.
+- **Image** (in the toolbar) adds a picture, with a caption that is shown in email and on the web. Because newsletters are so personal, I often use photos I took myself.
+- **Insert › Audio:** upload your own audio clip (MP3, M4A or WAV, up to 30 MB), with a caption if you like. On your site the clip plays right away. The email shows a **Listen to the clip** button that leads to the clip on your site, because email clients can't play audio.
+- **Insert › YouTube video, Spotify, SoundCloud or Instagram post:** paste the link and the embed sits in your letter.
+- **Insert › Divider** and **Table:** a line between two parts of your letter, or a table.
 
 This is what it looks like in the editor, with a SoundCloud embed and a button:
 
